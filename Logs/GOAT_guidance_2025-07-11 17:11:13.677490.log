@@ -1,0 +1,4 @@
+2025-07-11 16:29:43,890 - GOAT - DEBUG - 18536 - MainThread - GOAT_guidance.py:22 - __init__ - Redis connection established.
+2025-07-11 16:29:44,092 - GOAT - DEBUG - 18536 - MainThread - GOAT_guidance.py:62 - __init__ - Connected to the aircraft.
+2025-07-11 16:29:44,093 - GOAT - DEBUG - 18536 - MainThread - GOAT_guidance.py:150 - __init__ - PID initialized.
+2025-07-11 16:29:44,157 - GOAT - DEBUG - 18536 - MainThread - GOAT_guidance.py:69 - exit_handler - Connection closed.

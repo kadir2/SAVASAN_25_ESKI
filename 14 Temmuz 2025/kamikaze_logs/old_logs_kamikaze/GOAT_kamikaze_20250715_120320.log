@@ -1,0 +1,1440 @@
+2025-07-15 11:59:48,653 - GOAT - DEBUG - Mission state is NEUTRAL.
+2025-07-15 11:59:48,653 - GOAT - DEBUG - target_lat: 41.102904, target_lon: 28.5456026
+2025-07-15 11:59:48,654 - GOAT - DEBUG - start_altitude: 105target_altitude: 30stable_altitude: 80
+2025-07-15 11:59:48,654 - GOAT - DEBUG - diving_distance: 100
+2025-07-15 11:59:49,256 - GOAT - DEBUG - Connected to the aircraft.
+2025-07-15 12:01:42,610 - GOAT - DEBUG - Received start command from Redis.
+2025-07-15 12:01:42,610 - GOAT - DEBUG - start mission
+2025-07-15 12:01:42,711 - GOAT - DEBUG - going to approach destination
+2025-07-15 12:01:42,711 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:42,812 - GOAT - DEBUG - point1: (41.1010537, 28.5453258), target: (41.0996076, 28.550591)
+2025-07-15 12:01:42,812 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:42,913 - GOAT - DEBUG - point1: (41.1010537, 28.5453258), target: (41.0996076, 28.550591)
+2025-07-15 12:01:42,913 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:43,014 - GOAT - DEBUG - point1: (41.1011029, 28.5453114), target: (41.0996076, 28.550591)
+2025-07-15 12:01:43,014 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:43,114 - GOAT - DEBUG - point1: (41.1011029, 28.5453114), target: (41.0996076, 28.550591)
+2025-07-15 12:01:43,115 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:43,215 - GOAT - DEBUG - point1: (41.1011029, 28.5453114), target: (41.0996076, 28.550591)
+2025-07-15 12:01:43,215 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:43,316 - GOAT - DEBUG - point1: (41.1011492, 28.5453049), target: (41.0996076, 28.550591)
+2025-07-15 12:01:43,316 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:43,416 - GOAT - DEBUG - point1: (41.1011492, 28.5453049), target: (41.0996076, 28.550591)
+2025-07-15 12:01:43,416 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:43,517 - GOAT - DEBUG - point1: (41.1011996, 28.5453054), target: (41.0996076, 28.550591)
+2025-07-15 12:01:43,517 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:43,611 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:43,617 - GOAT - DEBUG - point1: (41.1011996, 28.5453054), target: (41.0996076, 28.550591)
+2025-07-15 12:01:43,618 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:43,718 - GOAT - DEBUG - point1: (41.1011996, 28.5453054), target: (41.0996076, 28.550591)
+2025-07-15 12:01:43,718 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:43,819 - GOAT - DEBUG - point1: (41.1012459, 28.5453126), target: (41.0996076, 28.550591)
+2025-07-15 12:01:43,819 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:43,919 - GOAT - DEBUG - point1: (41.1012459, 28.5453126), target: (41.0996076, 28.550591)
+2025-07-15 12:01:43,919 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:44,020 - GOAT - DEBUG - point1: (41.101295, 28.5453279), target: (41.0996076, 28.550591)
+2025-07-15 12:01:44,020 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:44,121 - GOAT - DEBUG - point1: (41.101295, 28.5453279), target: (41.0996076, 28.550591)
+2025-07-15 12:01:44,121 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:44,221 - GOAT - DEBUG - point1: (41.101295, 28.5453279), target: (41.0996076, 28.550591)
+2025-07-15 12:01:44,221 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:44,322 - GOAT - DEBUG - point1: (41.1013421, 28.5453504), target: (41.0996076, 28.550591)
+2025-07-15 12:01:44,322 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:44,422 - GOAT - DEBUG - point1: (41.1013421, 28.5453504), target: (41.0996076, 28.550591)
+2025-07-15 12:01:44,422 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:44,523 - GOAT - DEBUG - point1: (41.1013833, 28.5453774), target: (41.0996076, 28.550591)
+2025-07-15 12:01:44,523 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:44,612 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:44,623 - GOAT - DEBUG - point1: (41.1013833, 28.5453774), target: (41.0996076, 28.550591)
+2025-07-15 12:01:44,624 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:44,724 - GOAT - DEBUG - point1: (41.1013833, 28.5453774), target: (41.0996076, 28.550591)
+2025-07-15 12:01:44,724 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:44,825 - GOAT - DEBUG - point1: (41.1014251, 28.5454133), target: (41.0996076, 28.550591)
+2025-07-15 12:01:44,825 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:44,925 - GOAT - DEBUG - point1: (41.1014251, 28.5454133), target: (41.0996076, 28.550591)
+2025-07-15 12:01:44,925 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:45,026 - GOAT - DEBUG - point1: (41.1014607, 28.5454519), target: (41.0996076, 28.550591)
+2025-07-15 12:01:45,026 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:45,126 - GOAT - DEBUG - point1: (41.1014607, 28.5454519), target: (41.0996076, 28.550591)
+2025-07-15 12:01:45,127 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:45,227 - GOAT - DEBUG - point1: (41.1014607, 28.5454519), target: (41.0996076, 28.550591)
+2025-07-15 12:01:45,227 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:45,328 - GOAT - DEBUG - point1: (41.1014955, 28.5454994), target: (41.0996076, 28.550591)
+2025-07-15 12:01:45,328 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:45,428 - GOAT - DEBUG - point1: (41.1014955, 28.5454994), target: (41.0996076, 28.550591)
+2025-07-15 12:01:45,428 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:45,529 - GOAT - DEBUG - point1: (41.1015238, 28.5455478), target: (41.0996076, 28.550591)
+2025-07-15 12:01:45,529 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:45,613 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:45,629 - GOAT - DEBUG - point1: (41.1015238, 28.5455478), target: (41.0996076, 28.550591)
+2025-07-15 12:01:45,630 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:45,730 - GOAT - DEBUG - point1: (41.1015238, 28.5455478), target: (41.0996076, 28.550591)
+2025-07-15 12:01:45,730 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:45,831 - GOAT - DEBUG - point1: (41.1015499, 28.5456045), target: (41.0996076, 28.550591)
+2025-07-15 12:01:45,831 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:45,932 - GOAT - DEBUG - point1: (41.1015499, 28.5456045), target: (41.0996076, 28.550591)
+2025-07-15 12:01:45,932 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:46,032 - GOAT - DEBUG - point1: (41.1015695, 28.5456604), target: (41.0996076, 28.550591)
+2025-07-15 12:01:46,032 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:46,133 - GOAT - DEBUG - point1: (41.1015695, 28.5456604), target: (41.0996076, 28.550591)
+2025-07-15 12:01:46,133 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:46,233 - GOAT - DEBUG - point1: (41.1015695, 28.5456604), target: (41.0996076, 28.550591)
+2025-07-15 12:01:46,234 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:46,334 - GOAT - DEBUG - point1: (41.1015845, 28.5457192), target: (41.0996076, 28.550591)
+2025-07-15 12:01:46,334 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:46,435 - GOAT - DEBUG - point1: (41.1015845, 28.5457192), target: (41.0996076, 28.550591)
+2025-07-15 12:01:46,435 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:46,536 - GOAT - DEBUG - point1: (41.1015954, 28.5457852), target: (41.0996076, 28.550591)
+2025-07-15 12:01:46,536 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:46,614 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:46,636 - GOAT - DEBUG - point1: (41.1015954, 28.5457852), target: (41.0996076, 28.550591)
+2025-07-15 12:01:46,636 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:46,737 - GOAT - DEBUG - point1: (41.1015954, 28.5457852), target: (41.0996076, 28.550591)
+2025-07-15 12:01:46,737 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:46,837 - GOAT - DEBUG - point1: (41.1016003, 28.5458473), target: (41.0996076, 28.550591)
+2025-07-15 12:01:46,837 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:46,938 - GOAT - DEBUG - point1: (41.1016003, 28.5458473), target: (41.0996076, 28.550591)
+2025-07-15 12:01:46,938 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:47,038 - GOAT - DEBUG - point1: (41.1016001, 28.5459148), target: (41.0996076, 28.550591)
+2025-07-15 12:01:47,039 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:47,139 - GOAT - DEBUG - point1: (41.1016001, 28.5459148), target: (41.0996076, 28.550591)
+2025-07-15 12:01:47,139 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:47,240 - GOAT - DEBUG - point1: (41.1016001, 28.5459148), target: (41.0996076, 28.550591)
+2025-07-15 12:01:47,240 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:47,340 - GOAT - DEBUG - point1: (41.1015954, 28.5459768), target: (41.0996076, 28.550591)
+2025-07-15 12:01:47,341 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:47,441 - GOAT - DEBUG - point1: (41.1015954, 28.5459768), target: (41.0996076, 28.550591)
+2025-07-15 12:01:47,441 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:47,542 - GOAT - DEBUG - point1: (41.1015861, 28.5460432), target: (41.0996076, 28.550591)
+2025-07-15 12:01:47,542 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:47,615 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:47,643 - GOAT - DEBUG - point1: (41.1015861, 28.5460432), target: (41.0996076, 28.550591)
+2025-07-15 12:01:47,643 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:47,743 - GOAT - DEBUG - point1: (41.1015861, 28.5460432), target: (41.0996076, 28.550591)
+2025-07-15 12:01:47,743 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:47,844 - GOAT - DEBUG - point1: (41.1015743, 28.5461035), target: (41.0996076, 28.550591)
+2025-07-15 12:01:47,844 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:47,944 - GOAT - DEBUG - point1: (41.1015743, 28.5461035), target: (41.0996076, 28.550591)
+2025-07-15 12:01:47,944 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:48,045 - GOAT - DEBUG - point1: (41.1015591, 28.546168), target: (41.0996076, 28.550591)
+2025-07-15 12:01:48,045 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:48,145 - GOAT - DEBUG - point1: (41.1015591, 28.546168), target: (41.0996076, 28.550591)
+2025-07-15 12:01:48,146 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:48,246 - GOAT - DEBUG - point1: (41.1015591, 28.546168), target: (41.0996076, 28.550591)
+2025-07-15 12:01:48,246 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:48,346 - GOAT - DEBUG - point1: (41.1015433, 28.5462269), target: (41.0996076, 28.550591)
+2025-07-15 12:01:48,347 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:48,447 - GOAT - DEBUG - point1: (41.1015433, 28.5462269), target: (41.0996076, 28.550591)
+2025-07-15 12:01:48,447 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:48,548 - GOAT - DEBUG - point1: (41.1015249, 28.5462903), target: (41.0996076, 28.550591)
+2025-07-15 12:01:48,548 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:48,616 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:48,648 - GOAT - DEBUG - point1: (41.1015249, 28.5462903), target: (41.0996076, 28.550591)
+2025-07-15 12:01:48,648 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:48,749 - GOAT - DEBUG - point1: (41.1015249, 28.5462903), target: (41.0996076, 28.550591)
+2025-07-15 12:01:48,749 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:48,849 - GOAT - DEBUG - point1: (41.1015069, 28.5463482), target: (41.0996076, 28.550591)
+2025-07-15 12:01:48,850 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:48,950 - GOAT - DEBUG - point1: (41.1015069, 28.5463482), target: (41.0996076, 28.550591)
+2025-07-15 12:01:48,950 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:49,051 - GOAT - DEBUG - point1: (41.1014865, 28.5464101), target: (41.0996076, 28.550591)
+2025-07-15 12:01:49,051 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:49,151 - GOAT - DEBUG - point1: (41.1014865, 28.5464101), target: (41.0996076, 28.550591)
+2025-07-15 12:01:49,151 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:49,252 - GOAT - DEBUG - point1: (41.1014865, 28.5464101), target: (41.0996076, 28.550591)
+2025-07-15 12:01:49,252 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:49,352 - GOAT - DEBUG - point1: (41.1014672, 28.5464661), target: (41.0996076, 28.550591)
+2025-07-15 12:01:49,353 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:49,453 - GOAT - DEBUG - point1: (41.1014672, 28.5464661), target: (41.0996076, 28.550591)
+2025-07-15 12:01:49,453 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:49,553 - GOAT - DEBUG - point1: (41.1014461, 28.5465253), target: (41.0996076, 28.550591)
+2025-07-15 12:01:49,554 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:49,617 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:49,654 - GOAT - DEBUG - point1: (41.1014461, 28.5465253), target: (41.0996076, 28.550591)
+2025-07-15 12:01:49,654 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:49,754 - GOAT - DEBUG - point1: (41.1014461, 28.5465253), target: (41.0996076, 28.550591)
+2025-07-15 12:01:49,755 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:49,855 - GOAT - DEBUG - point1: (41.1014264, 28.5465786), target: (41.0996076, 28.550591)
+2025-07-15 12:01:49,855 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:49,956 - GOAT - DEBUG - point1: (41.1014264, 28.5465786), target: (41.0996076, 28.550591)
+2025-07-15 12:01:49,956 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:50,056 - GOAT - DEBUG - point1: (41.1014051, 28.5466357), target: (41.0996076, 28.550591)
+2025-07-15 12:01:50,057 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:50,157 - GOAT - DEBUG - point1: (41.1014051, 28.5466357), target: (41.0996076, 28.550591)
+2025-07-15 12:01:50,157 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:50,257 - GOAT - DEBUG - point1: (41.1014051, 28.5466357), target: (41.0996076, 28.550591)
+2025-07-15 12:01:50,258 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:50,358 - GOAT - DEBUG - point1: (41.1013853, 28.5466883), target: (41.0996076, 28.550591)
+2025-07-15 12:01:50,358 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:50,458 - GOAT - DEBUG - point1: (41.1013853, 28.5466883), target: (41.0996076, 28.550591)
+2025-07-15 12:01:50,459 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:50,559 - GOAT - DEBUG - point1: (41.1013636, 28.5467457), target: (41.0996076, 28.550591)
+2025-07-15 12:01:50,559 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:50,618 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:50,660 - GOAT - DEBUG - point1: (41.1013636, 28.5467457), target: (41.0996076, 28.550591)
+2025-07-15 12:01:50,660 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:50,760 - GOAT - DEBUG - point1: (41.1013636, 28.5467457), target: (41.0996076, 28.550591)
+2025-07-15 12:01:50,761 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:50,861 - GOAT - DEBUG - point1: (41.1013433, 28.5467993), target: (41.0996076, 28.550591)
+2025-07-15 12:01:50,861 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:50,961 - GOAT - DEBUG - point1: (41.1013433, 28.5467993), target: (41.0996076, 28.550591)
+2025-07-15 12:01:50,962 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:51,062 - GOAT - DEBUG - point1: (41.1013208, 28.5468579), target: (41.0996076, 28.550591)
+2025-07-15 12:01:51,062 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:51,162 - GOAT - DEBUG - point1: (41.1013208, 28.5468579), target: (41.0996076, 28.550591)
+2025-07-15 12:01:51,163 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:51,263 - GOAT - DEBUG - point1: (41.1013208, 28.5468579), target: (41.0996076, 28.550591)
+2025-07-15 12:01:51,263 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:51,363 - GOAT - DEBUG - point1: (41.1012995, 28.5469125), target: (41.0996076, 28.550591)
+2025-07-15 12:01:51,364 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:51,464 - GOAT - DEBUG - point1: (41.1012995, 28.5469125), target: (41.0996076, 28.550591)
+2025-07-15 12:01:51,464 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:51,565 - GOAT - DEBUG - point1: (41.1012759, 28.5469716), target: (41.0996076, 28.550591)
+2025-07-15 12:01:51,565 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:51,619 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:51,665 - GOAT - DEBUG - point1: (41.1012759, 28.5469716), target: (41.0996076, 28.550591)
+2025-07-15 12:01:51,665 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:51,766 - GOAT - DEBUG - point1: (41.1012759, 28.5469716), target: (41.0996076, 28.550591)
+2025-07-15 12:01:51,766 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:51,866 - GOAT - DEBUG - point1: (41.1012538, 28.5470259), target: (41.0996076, 28.550591)
+2025-07-15 12:01:51,866 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:51,967 - GOAT - DEBUG - point1: (41.1012538, 28.5470259), target: (41.0996076, 28.550591)
+2025-07-15 12:01:51,967 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:52,067 - GOAT - DEBUG - point1: (41.1012297, 28.5470838), target: (41.0996076, 28.550591)
+2025-07-15 12:01:52,067 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:52,168 - GOAT - DEBUG - point1: (41.1012297, 28.5470838), target: (41.0996076, 28.550591)
+2025-07-15 12:01:52,168 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:52,268 - GOAT - DEBUG - point1: (41.1012297, 28.5470838), target: (41.0996076, 28.550591)
+2025-07-15 12:01:52,269 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:52,369 - GOAT - DEBUG - point1: (41.1012073, 28.5471368), target: (41.0996076, 28.550591)
+2025-07-15 12:01:52,369 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:52,469 - GOAT - DEBUG - point1: (41.1012073, 28.5471368), target: (41.0996076, 28.550591)
+2025-07-15 12:01:52,470 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:52,570 - GOAT - DEBUG - point1: (41.1011829, 28.5471938), target: (41.0996076, 28.550591)
+2025-07-15 12:01:52,570 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:52,620 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:52,670 - GOAT - DEBUG - point1: (41.1011829, 28.5471938), target: (41.0996076, 28.550591)
+2025-07-15 12:01:52,670 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:52,771 - GOAT - DEBUG - point1: (41.1011829, 28.5471938), target: (41.0996076, 28.550591)
+2025-07-15 12:01:52,771 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:52,871 - GOAT - DEBUG - point1: (41.1011603, 28.5472465), target: (41.0996076, 28.550591)
+2025-07-15 12:01:52,872 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:52,972 - GOAT - DEBUG - point1: (41.1011603, 28.5472465), target: (41.0996076, 28.550591)
+2025-07-15 12:01:52,972 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:53,073 - GOAT - DEBUG - point1: (41.1011356, 28.5473037), target: (41.0996076, 28.550591)
+2025-07-15 12:01:53,073 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:53,173 - GOAT - DEBUG - point1: (41.1011356, 28.5473037), target: (41.0996076, 28.550591)
+2025-07-15 12:01:53,173 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:53,274 - GOAT - DEBUG - point1: (41.1011356, 28.5473037), target: (41.0996076, 28.550591)
+2025-07-15 12:01:53,274 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:53,374 - GOAT - DEBUG - point1: (41.1011109, 28.5473608), target: (41.0996076, 28.550591)
+2025-07-15 12:01:53,374 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:53,475 - GOAT - DEBUG - point1: (41.1011109, 28.5473608), target: (41.0996076, 28.550591)
+2025-07-15 12:01:53,475 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:53,575 - GOAT - DEBUG - point1: (41.101088, 28.5474135), target: (41.0996076, 28.550591)
+2025-07-15 12:01:53,576 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:53,621 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:53,676 - GOAT - DEBUG - point1: (41.101088, 28.5474135), target: (41.0996076, 28.550591)
+2025-07-15 12:01:53,676 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:53,777 - GOAT - DEBUG - point1: (41.101088, 28.5474135), target: (41.0996076, 28.550591)
+2025-07-15 12:01:53,777 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:53,877 - GOAT - DEBUG - point1: (41.1010629, 28.5474707), target: (41.0996076, 28.550591)
+2025-07-15 12:01:53,877 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:53,977 - GOAT - DEBUG - point1: (41.1010629, 28.5474707), target: (41.0996076, 28.550591)
+2025-07-15 12:01:53,978 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:54,078 - GOAT - DEBUG - point1: (41.1010397, 28.5475233), target: (41.0996076, 28.550591)
+2025-07-15 12:01:54,079 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:54,179 - GOAT - DEBUG - point1: (41.1010397, 28.5475233), target: (41.0996076, 28.550591)
+2025-07-15 12:01:54,180 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:54,280 - GOAT - DEBUG - point1: (41.1010397, 28.5475233), target: (41.0996076, 28.550591)
+2025-07-15 12:01:54,280 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:54,380 - GOAT - DEBUG - point1: (41.1010145, 28.5475801), target: (41.0996076, 28.550591)
+2025-07-15 12:01:54,380 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:54,481 - GOAT - DEBUG - point1: (41.1010145, 28.5475801), target: (41.0996076, 28.550591)
+2025-07-15 12:01:54,481 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:54,581 - GOAT - DEBUG - point1: (41.1009913, 28.5476323), target: (41.0996076, 28.550591)
+2025-07-15 12:01:54,582 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:54,621 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:54,682 - GOAT - DEBUG - point1: (41.1009913, 28.5476323), target: (41.0996076, 28.550591)
+2025-07-15 12:01:54,682 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:54,783 - GOAT - DEBUG - point1: (41.1009913, 28.5476323), target: (41.0996076, 28.550591)
+2025-07-15 12:01:54,783 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:54,883 - GOAT - DEBUG - point1: (41.1009661, 28.5476888), target: (41.0996076, 28.550591)
+2025-07-15 12:01:54,883 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:54,984 - GOAT - DEBUG - point1: (41.1009661, 28.5476888), target: (41.0996076, 28.550591)
+2025-07-15 12:01:54,984 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:55,084 - GOAT - DEBUG - point1: (41.1009424, 28.5477416), target: (41.0996076, 28.550591)
+2025-07-15 12:01:55,084 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:55,185 - GOAT - DEBUG - point1: (41.1009424, 28.5477416), target: (41.0996076, 28.550591)
+2025-07-15 12:01:55,185 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:55,285 - GOAT - DEBUG - point1: (41.1009424, 28.5477416), target: (41.0996076, 28.550591)
+2025-07-15 12:01:55,286 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:55,386 - GOAT - DEBUG - point1: (41.1009185, 28.5477947), target: (41.0996076, 28.550591)
+2025-07-15 12:01:55,386 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:55,487 - GOAT - DEBUG - point1: (41.1009185, 28.5477947), target: (41.0996076, 28.550591)
+2025-07-15 12:01:55,487 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:55,587 - GOAT - DEBUG - point1: (41.1008924, 28.5478525), target: (41.0996076, 28.550591)
+2025-07-15 12:01:55,587 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:55,621 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:55,688 - GOAT - DEBUG - point1: (41.1008924, 28.5478525), target: (41.0996076, 28.550591)
+2025-07-15 12:01:55,688 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:55,788 - GOAT - DEBUG - point1: (41.1008924, 28.5478525), target: (41.0996076, 28.550591)
+2025-07-15 12:01:55,788 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:55,889 - GOAT - DEBUG - point1: (41.1008682, 28.5479059), target: (41.0996076, 28.550591)
+2025-07-15 12:01:55,889 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:55,989 - GOAT - DEBUG - point1: (41.1008682, 28.5479059), target: (41.0996076, 28.550591)
+2025-07-15 12:01:55,990 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:56,090 - GOAT - DEBUG - point1: (41.100842, 28.5479637), target: (41.0996076, 28.550591)
+2025-07-15 12:01:56,090 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:56,190 - GOAT - DEBUG - point1: (41.100842, 28.5479637), target: (41.0996076, 28.550591)
+2025-07-15 12:01:56,191 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:56,291 - GOAT - DEBUG - point1: (41.100842, 28.5479637), target: (41.0996076, 28.550591)
+2025-07-15 12:01:56,291 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:56,392 - GOAT - DEBUG - point1: (41.1008177, 28.5480169), target: (41.0996076, 28.550591)
+2025-07-15 12:01:56,392 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:56,492 - GOAT - DEBUG - point1: (41.1008177, 28.5480169), target: (41.0996076, 28.550591)
+2025-07-15 12:01:56,492 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:56,593 - GOAT - DEBUG - point1: (41.1007915, 28.5480742), target: (41.0996076, 28.550591)
+2025-07-15 12:01:56,593 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:56,622 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:56,693 - GOAT - DEBUG - point1: (41.1007915, 28.5480742), target: (41.0996076, 28.550591)
+2025-07-15 12:01:56,693 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:56,794 - GOAT - DEBUG - point1: (41.1007915, 28.5480742), target: (41.0996076, 28.550591)
+2025-07-15 12:01:56,794 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:56,894 - GOAT - DEBUG - point1: (41.1007674, 28.5481269), target: (41.0996076, 28.550591)
+2025-07-15 12:01:56,894 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:56,995 - GOAT - DEBUG - point1: (41.1007674, 28.5481269), target: (41.0996076, 28.550591)
+2025-07-15 12:01:56,995 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:57,095 - GOAT - DEBUG - point1: (41.1007413, 28.5481837), target: (41.0996076, 28.550591)
+2025-07-15 12:01:57,095 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:57,196 - GOAT - DEBUG - point1: (41.1007413, 28.5481837), target: (41.0996076, 28.550591)
+2025-07-15 12:01:57,196 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:57,296 - GOAT - DEBUG - point1: (41.1007413, 28.5481837), target: (41.0996076, 28.550591)
+2025-07-15 12:01:57,297 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:57,397 - GOAT - DEBUG - point1: (41.1007172, 28.548236), target: (41.0996076, 28.550591)
+2025-07-15 12:01:57,397 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:57,497 - GOAT - DEBUG - point1: (41.1007172, 28.548236), target: (41.0996076, 28.550591)
+2025-07-15 12:01:57,498 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:57,598 - GOAT - DEBUG - point1: (41.1006911, 28.5482928), target: (41.0996076, 28.550591)
+2025-07-15 12:01:57,598 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:57,623 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:57,698 - GOAT - DEBUG - point1: (41.1006911, 28.5482928), target: (41.0996076, 28.550591)
+2025-07-15 12:01:57,699 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:57,799 - GOAT - DEBUG - point1: (41.1006911, 28.5482928), target: (41.0996076, 28.550591)
+2025-07-15 12:01:57,799 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:57,899 - GOAT - DEBUG - point1: (41.100667, 28.5483452), target: (41.0996076, 28.550591)
+2025-07-15 12:01:57,900 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:58,000 - GOAT - DEBUG - point1: (41.100667, 28.5483452), target: (41.0996076, 28.550591)
+2025-07-15 12:01:58,000 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:58,100 - GOAT - DEBUG - point1: (41.1006407, 28.5484021), target: (41.0996076, 28.550591)
+2025-07-15 12:01:58,101 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:58,201 - GOAT - DEBUG - point1: (41.1006407, 28.5484021), target: (41.0996076, 28.550591)
+2025-07-15 12:01:58,201 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:58,301 - GOAT - DEBUG - point1: (41.1006407, 28.5484021), target: (41.0996076, 28.550591)
+2025-07-15 12:01:58,302 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:58,402 - GOAT - DEBUG - point1: (41.1006165, 28.5484546), target: (41.0996076, 28.550591)
+2025-07-15 12:01:58,402 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:58,502 - GOAT - DEBUG - point1: (41.1006165, 28.5484546), target: (41.0996076, 28.550591)
+2025-07-15 12:01:58,503 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:58,603 - GOAT - DEBUG - point1: (41.1005902, 28.5485113), target: (41.0996076, 28.550591)
+2025-07-15 12:01:58,603 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:58,624 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:58,703 - GOAT - DEBUG - point1: (41.1005902, 28.5485113), target: (41.0996076, 28.550591)
+2025-07-15 12:01:58,704 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:58,804 - GOAT - DEBUG - point1: (41.1005902, 28.5485113), target: (41.0996076, 28.550591)
+2025-07-15 12:01:58,804 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:58,904 - GOAT - DEBUG - point1: (41.100566, 28.5485636), target: (41.0996076, 28.550591)
+2025-07-15 12:01:58,905 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:59,005 - GOAT - DEBUG - point1: (41.100566, 28.5485636), target: (41.0996076, 28.550591)
+2025-07-15 12:01:59,005 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:59,105 - GOAT - DEBUG - point1: (41.1005398, 28.54862), target: (41.0996076, 28.550591)
+2025-07-15 12:01:59,106 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:59,206 - GOAT - DEBUG - point1: (41.1005398, 28.54862), target: (41.0996076, 28.550591)
+2025-07-15 12:01:59,206 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:59,307 - GOAT - DEBUG - point1: (41.1005398, 28.54862), target: (41.0996076, 28.550591)
+2025-07-15 12:01:59,307 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:59,407 - GOAT - DEBUG - point1: (41.1005156, 28.5486721), target: (41.0996076, 28.550591)
+2025-07-15 12:01:59,407 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:59,508 - GOAT - DEBUG - point1: (41.1005156, 28.5486721), target: (41.0996076, 28.550591)
+2025-07-15 12:01:59,508 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:59,608 - GOAT - DEBUG - point1: (41.1004895, 28.5487284), target: (41.0996076, 28.550591)
+2025-07-15 12:01:59,609 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:59,625 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:01:59,709 - GOAT - DEBUG - point1: (41.1004895, 28.5487284), target: (41.0996076, 28.550591)
+2025-07-15 12:01:59,709 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:59,809 - GOAT - DEBUG - point1: (41.1004895, 28.5487284), target: (41.0996076, 28.550591)
+2025-07-15 12:01:59,810 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:01:59,910 - GOAT - DEBUG - point1: (41.1004653, 28.5487805), target: (41.0996076, 28.550591)
+2025-07-15 12:01:59,910 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:00,010 - GOAT - DEBUG - point1: (41.1004653, 28.5487805), target: (41.0996076, 28.550591)
+2025-07-15 12:02:00,011 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:00,111 - GOAT - DEBUG - point1: (41.100439, 28.548837), target: (41.0996076, 28.550591)
+2025-07-15 12:02:00,111 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:00,212 - GOAT - DEBUG - point1: (41.100439, 28.548837), target: (41.0996076, 28.550591)
+2025-07-15 12:02:00,212 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:00,312 - GOAT - DEBUG - point1: (41.100439, 28.548837), target: (41.0996076, 28.550591)
+2025-07-15 12:02:00,312 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:00,413 - GOAT - DEBUG - point1: (41.1004147, 28.5488892), target: (41.0996076, 28.550591)
+2025-07-15 12:02:00,413 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:00,513 - GOAT - DEBUG - point1: (41.1004147, 28.5488892), target: (41.0996076, 28.550591)
+2025-07-15 12:02:00,514 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:00,614 - GOAT - DEBUG - point1: (41.1003883, 28.5489457), target: (41.0996076, 28.550591)
+2025-07-15 12:02:00,614 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:00,626 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:00,715 - GOAT - DEBUG - point1: (41.1003883, 28.5489457), target: (41.0996076, 28.550591)
+2025-07-15 12:02:00,715 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:00,816 - GOAT - DEBUG - point1: (41.1003883, 28.5489457), target: (41.0996076, 28.550591)
+2025-07-15 12:02:00,816 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:00,916 - GOAT - DEBUG - point1: (41.100364, 28.5489979), target: (41.0996076, 28.550591)
+2025-07-15 12:02:00,917 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:01,017 - GOAT - DEBUG - point1: (41.100364, 28.5489979), target: (41.0996076, 28.550591)
+2025-07-15 12:02:01,017 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:01,117 - GOAT - DEBUG - point1: (41.1003376, 28.5490543), target: (41.0996076, 28.550591)
+2025-07-15 12:02:01,118 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:01,218 - GOAT - DEBUG - point1: (41.1003376, 28.5490543), target: (41.0996076, 28.550591)
+2025-07-15 12:02:01,218 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:01,319 - GOAT - DEBUG - point1: (41.1003376, 28.5490543), target: (41.0996076, 28.550591)
+2025-07-15 12:02:01,319 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:01,419 - GOAT - DEBUG - point1: (41.1003133, 28.5491063), target: (41.0996076, 28.550591)
+2025-07-15 12:02:01,420 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:01,520 - GOAT - DEBUG - point1: (41.1003133, 28.5491063), target: (41.0996076, 28.550591)
+2025-07-15 12:02:01,520 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:01,621 - GOAT - DEBUG - point1: (41.100287, 28.5491627), target: (41.0996076, 28.550591)
+2025-07-15 12:02:01,621 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:01,626 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:01,722 - GOAT - DEBUG - point1: (41.100287, 28.5491627), target: (41.0996076, 28.550591)
+2025-07-15 12:02:01,722 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:01,822 - GOAT - DEBUG - point1: (41.100287, 28.5491627), target: (41.0996076, 28.550591)
+2025-07-15 12:02:01,823 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:01,923 - GOAT - DEBUG - point1: (41.1002627, 28.5492147), target: (41.0996076, 28.550591)
+2025-07-15 12:02:01,923 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:02,024 - GOAT - DEBUG - point1: (41.1002627, 28.5492147), target: (41.0996076, 28.550591)
+2025-07-15 12:02:02,024 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:02,124 - GOAT - DEBUG - point1: (41.1002364, 28.5492707), target: (41.0996076, 28.550591)
+2025-07-15 12:02:02,125 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:02,225 - GOAT - DEBUG - point1: (41.1002364, 28.5492707), target: (41.0996076, 28.550591)
+2025-07-15 12:02:02,225 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:02,325 - GOAT - DEBUG - point1: (41.1002364, 28.5492707), target: (41.0996076, 28.550591)
+2025-07-15 12:02:02,326 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:02,426 - GOAT - DEBUG - point1: (41.1002103, 28.5493263), target: (41.0996076, 28.550591)
+2025-07-15 12:02:02,426 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:02,527 - GOAT - DEBUG - point1: (41.1002103, 28.5493263), target: (41.0996076, 28.550591)
+2025-07-15 12:02:02,527 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:02,628 - GOAT - DEBUG - point1: (41.1001862, 28.5493777), target: (41.0996076, 28.550591)
+2025-07-15 12:02:02,628 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:02,628 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:02,728 - GOAT - DEBUG - point1: (41.1001862, 28.5493777), target: (41.0996076, 28.550591)
+2025-07-15 12:02:02,729 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:02,829 - GOAT - DEBUG - point1: (41.1001862, 28.5493777), target: (41.0996076, 28.550591)
+2025-07-15 12:02:02,830 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:02,930 - GOAT - DEBUG - point1: (41.10016, 28.5494335), target: (41.0996076, 28.550591)
+2025-07-15 12:02:02,930 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:03,030 - GOAT - DEBUG - point1: (41.10016, 28.5494335), target: (41.0996076, 28.550591)
+2025-07-15 12:02:03,031 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:03,131 - GOAT - DEBUG - point1: (41.1001358, 28.549485), target: (41.0996076, 28.550591)
+2025-07-15 12:02:03,131 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:03,232 - GOAT - DEBUG - point1: (41.1001358, 28.549485), target: (41.0996076, 28.550591)
+2025-07-15 12:02:03,232 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:03,332 - GOAT - DEBUG - point1: (41.1001358, 28.549485), target: (41.0996076, 28.550591)
+2025-07-15 12:02:03,333 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:03,433 - GOAT - DEBUG - point1: (41.1001095, 28.5495409), target: (41.0996076, 28.550591)
+2025-07-15 12:02:03,433 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:03,534 - GOAT - DEBUG - point1: (41.1001095, 28.5495409), target: (41.0996076, 28.550591)
+2025-07-15 12:02:03,534 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:03,628 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:03,634 - GOAT - DEBUG - point1: (41.1000852, 28.5495926), target: (41.0996076, 28.550591)
+2025-07-15 12:02:03,635 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:03,735 - GOAT - DEBUG - point1: (41.1000852, 28.5495926), target: (41.0996076, 28.550591)
+2025-07-15 12:02:03,735 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:03,836 - GOAT - DEBUG - point1: (41.1000607, 28.5496446), target: (41.0996076, 28.550591)
+2025-07-15 12:02:03,836 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:03,937 - GOAT - DEBUG - point1: (41.1000607, 28.5496446), target: (41.0996076, 28.550591)
+2025-07-15 12:02:03,937 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:04,037 - GOAT - DEBUG - point1: (41.1000607, 28.5496446), target: (41.0996076, 28.550591)
+2025-07-15 12:02:04,037 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:04,138 - GOAT - DEBUG - point1: (41.1000341, 28.5497012), target: (41.0996076, 28.550591)
+2025-07-15 12:02:04,138 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:04,238 - GOAT - DEBUG - point1: (41.1000341, 28.5497012), target: (41.0996076, 28.550591)
+2025-07-15 12:02:04,239 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:04,339 - GOAT - DEBUG - point1: (41.1000094, 28.5497538), target: (41.0996076, 28.550591)
+2025-07-15 12:02:04,340 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:04,440 - GOAT - DEBUG - point1: (41.1000094, 28.5497538), target: (41.0996076, 28.550591)
+2025-07-15 12:02:04,440 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:04,541 - GOAT - DEBUG - point1: (41.1000094, 28.5497538), target: (41.0996076, 28.550591)
+2025-07-15 12:02:04,541 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:04,629 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:04,641 - GOAT - DEBUG - point1: (41.0999829, 28.5498113), target: (41.0996076, 28.550591)
+2025-07-15 12:02:04,642 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:04,742 - GOAT - DEBUG - point1: (41.0999829, 28.5498113), target: (41.0996076, 28.550591)
+2025-07-15 12:02:04,742 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:04,842 - GOAT - DEBUG - point1: (41.0999592, 28.549865), target: (41.0996076, 28.550591)
+2025-07-15 12:02:04,843 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:04,943 - GOAT - DEBUG - point1: (41.0999592, 28.549865), target: (41.0996076, 28.550591)
+2025-07-15 12:02:04,943 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:05,044 - GOAT - DEBUG - point1: (41.0999592, 28.549865), target: (41.0996076, 28.550591)
+2025-07-15 12:02:05,044 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:05,144 - GOAT - DEBUG - point1: (41.0999347, 28.5499242), target: (41.0996076, 28.550591)
+2025-07-15 12:02:05,144 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:05,245 - GOAT - DEBUG - point1: (41.0999347, 28.5499242), target: (41.0996076, 28.550591)
+2025-07-15 12:02:05,245 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:05,345 - GOAT - DEBUG - point1: (41.0999137, 28.5499801), target: (41.0996076, 28.550591)
+2025-07-15 12:02:05,345 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:05,446 - GOAT - DEBUG - point1: (41.0999137, 28.5499801), target: (41.0996076, 28.550591)
+2025-07-15 12:02:05,446 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:05,546 - GOAT - DEBUG - point1: (41.0999137, 28.5499801), target: (41.0996076, 28.550591)
+2025-07-15 12:02:05,547 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:05,630 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:05,647 - GOAT - DEBUG - point1: (41.0998935, 28.5500426), target: (41.0996076, 28.550591)
+2025-07-15 12:02:05,647 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:05,747 - GOAT - DEBUG - point1: (41.0998935, 28.5500426), target: (41.0996076, 28.550591)
+2025-07-15 12:02:05,748 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:05,848 - GOAT - DEBUG - point1: (41.099878, 28.5501021), target: (41.0996076, 28.550591)
+2025-07-15 12:02:05,848 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:05,949 - GOAT - DEBUG - point1: (41.099878, 28.5501021), target: (41.0996076, 28.550591)
+2025-07-15 12:02:05,949 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:06,049 - GOAT - DEBUG - point1: (41.099878, 28.5501021), target: (41.0996076, 28.550591)
+2025-07-15 12:02:06,050 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:02:06,150 - GOAT - DEBUG - point1: (41.0998655, 28.5501682), target: (41.0996076, 28.550591)
+2025-07-15 12:02:06,150 - GOAT - DEBUG - Reached approach destination.
+2025-07-15 12:02:06,150 - GOAT - DEBUG - going to target destination
+2025-07-15 12:02:06,631 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:07,632 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:08,633 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:09,635 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:10,636 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:11,637 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:12,638 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:13,638 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:14,639 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:15,641 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:16,642 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:17,643 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:18,644 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:19,645 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:20,645 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:21,646 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:22,647 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:23,648 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:24,649 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:25,649 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:26,649 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:27,651 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:28,652 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:29,653 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:02:30,259 - GOAT - DEBUG - Reached target destination.
+2025-07-15 12:02:30,259 - GOAT - DEBUG - Target reached, diving in.
+2025-07-15 12:02:30,654 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-15 12:02:30,654 - GOAT - DEBUG - Diving in
+2025-07-15 12:02:30,654 - GOAT - DEBUG -  RADİAN PITCH == 0.6981317007977318
+2025-07-15 12:02:30,654 - GOAT - DEBUG - altitude: 104.899
+2025-07-15 12:02:31,655 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-15 12:02:31,655 - GOAT - DEBUG - Diving in
+2025-07-15 12:02:31,655 - GOAT - DEBUG -  RADİAN PITCH == 0.6981317007977318
+2025-07-15 12:02:31,655 - GOAT - DEBUG - altitude: 103.846
+2025-07-15 12:02:32,656 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-15 12:02:32,656 - GOAT - DEBUG - Diving in
+2025-07-15 12:02:32,656 - GOAT - DEBUG -  RADİAN PITCH == 0.6981317007977318
+2025-07-15 12:02:32,656 - GOAT - DEBUG - altitude: 95.199
+2025-07-15 12:02:33,657 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-15 12:02:33,657 - GOAT - DEBUG - Diving in
+2025-07-15 12:02:33,657 - GOAT - DEBUG -  RADİAN PITCH == 0.6981317007977318
+2025-07-15 12:02:33,658 - GOAT - DEBUG - altitude: 80.944
+2025-07-15 12:02:34,658 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-15 12:02:34,659 - GOAT - DEBUG - Diving in
+2025-07-15 12:02:34,659 - GOAT - DEBUG -  RADİAN PITCH == 0.6981317007977318
+2025-07-15 12:02:34,659 - GOAT - DEBUG - altitude: 67.866
+2025-07-15 12:02:35,660 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-15 12:02:35,660 - GOAT - DEBUG - Diving in
+2025-07-15 12:02:35,660 - GOAT - DEBUG -  RADİAN PITCH == 0.6981317007977318
+2025-07-15 12:02:35,660 - GOAT - DEBUG - altitude: 54.353
+2025-07-15 12:02:36,661 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-15 12:02:36,661 - GOAT - DEBUG - Diving in
+2025-07-15 12:02:36,662 - GOAT - DEBUG -  RADİAN PITCH == 0.6981317007977318
+2025-07-15 12:02:36,662 - GOAT - DEBUG - altitude: 40.38
+2025-07-15 12:02:37,663 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-15 12:02:37,663 - GOAT - DEBUG - Diving in
+2025-07-15 12:02:37,663 - GOAT - DEBUG - Altitude is less than 30 meters
+2025-07-15 12:02:37,663 - GOAT - DEBUG - altitude: 26.259
+2025-07-15 12:02:37,677 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:37,677 - GOAT - DEBUG - self.alt: 26.259
+2025-07-15 12:02:37,777 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:37,778 - GOAT - DEBUG - self.alt: 22.549
+2025-07-15 12:02:37,878 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:37,878 - GOAT - DEBUG - self.alt: 22.549
+2025-07-15 12:02:37,979 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:37,979 - GOAT - DEBUG - self.alt: 22.549
+2025-07-15 12:02:38,079 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:38,079 - GOAT - DEBUG - self.alt: 18.907
+2025-07-15 12:02:38,180 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:38,180 - GOAT - DEBUG - self.alt: 18.907
+2025-07-15 12:02:38,280 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:38,280 - GOAT - DEBUG - self.alt: 16.076
+2025-07-15 12:02:38,381 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:38,381 - GOAT - DEBUG - self.alt: 16.076
+2025-07-15 12:02:38,481 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:38,482 - GOAT - DEBUG - self.alt: 16.076
+2025-07-15 12:02:38,582 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:38,582 - GOAT - DEBUG - self.alt: 14.07
+2025-07-15 12:02:38,664 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:38,683 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:38,683 - GOAT - DEBUG - self.alt: 14.07
+2025-07-15 12:02:38,783 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:38,783 - GOAT - DEBUG - self.alt: 13.401
+2025-07-15 12:02:38,884 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:38,884 - GOAT - DEBUG - self.alt: 13.401
+2025-07-15 12:02:38,984 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:38,984 - GOAT - DEBUG - self.alt: 13.401
+2025-07-15 12:02:39,085 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:39,085 - GOAT - DEBUG - self.alt: 13.899
+2025-07-15 12:02:39,185 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:39,185 - GOAT - DEBUG - self.alt: 13.899
+2025-07-15 12:02:39,286 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:39,286 - GOAT - DEBUG - self.alt: 15.128
+2025-07-15 12:02:39,386 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:39,386 - GOAT - DEBUG - self.alt: 15.128
+2025-07-15 12:02:39,487 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:39,487 - GOAT - DEBUG - self.alt: 15.128
+2025-07-15 12:02:39,587 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:39,587 - GOAT - DEBUG - self.alt: 16.823
+2025-07-15 12:02:39,665 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:39,688 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:39,688 - GOAT - DEBUG - self.alt: 16.823
+2025-07-15 12:02:39,789 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:39,789 - GOAT - DEBUG - self.alt: 18.4
+2025-07-15 12:02:39,889 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:39,889 - GOAT - DEBUG - self.alt: 18.4
+2025-07-15 12:02:39,990 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:39,990 - GOAT - DEBUG - self.alt: 18.4
+2025-07-15 12:02:40,090 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:40,090 - GOAT - DEBUG - self.alt: 19.777
+2025-07-15 12:02:40,191 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:40,191 - GOAT - DEBUG - self.alt: 19.777
+2025-07-15 12:02:40,292 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:40,292 - GOAT - DEBUG - self.alt: 20.96
+2025-07-15 12:02:40,392 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:40,392 - GOAT - DEBUG - self.alt: 20.96
+2025-07-15 12:02:40,493 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:40,493 - GOAT - DEBUG - self.alt: 20.96
+2025-07-15 12:02:40,593 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:40,593 - GOAT - DEBUG - self.alt: 21.76
+2025-07-15 12:02:40,665 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:40,694 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:40,694 - GOAT - DEBUG - self.alt: 21.76
+2025-07-15 12:02:40,794 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:40,794 - GOAT - DEBUG - self.alt: 22.394
+2025-07-15 12:02:40,894 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:40,895 - GOAT - DEBUG - self.alt: 22.394
+2025-07-15 12:02:40,995 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:40,995 - GOAT - DEBUG - self.alt: 22.394
+2025-07-15 12:02:41,095 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:41,096 - GOAT - DEBUG - self.alt: 22.862
+2025-07-15 12:02:41,196 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:41,196 - GOAT - DEBUG - self.alt: 22.862
+2025-07-15 12:02:41,297 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:41,297 - GOAT - DEBUG - self.alt: 23.343
+2025-07-15 12:02:41,397 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:41,397 - GOAT - DEBUG - self.alt: 23.343
+2025-07-15 12:02:41,498 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:41,498 - GOAT - DEBUG - self.alt: 23.343
+2025-07-15 12:02:41,598 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:41,598 - GOAT - DEBUG - self.alt: 23.825
+2025-07-15 12:02:41,665 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:41,699 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:41,699 - GOAT - DEBUG - self.alt: 23.825
+2025-07-15 12:02:41,799 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:41,799 - GOAT - DEBUG - self.alt: 24.422
+2025-07-15 12:02:41,900 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:41,900 - GOAT - DEBUG - self.alt: 24.422
+2025-07-15 12:02:42,000 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:42,000 - GOAT - DEBUG - self.alt: 24.422
+2025-07-15 12:02:42,101 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:42,101 - GOAT - DEBUG - self.alt: 25.028
+2025-07-15 12:02:42,201 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:42,201 - GOAT - DEBUG - self.alt: 25.028
+2025-07-15 12:02:42,302 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:42,302 - GOAT - DEBUG - self.alt: 25.718
+2025-07-15 12:02:42,403 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:42,403 - GOAT - DEBUG - self.alt: 25.718
+2025-07-15 12:02:42,503 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:42,503 - GOAT - DEBUG - self.alt: 25.718
+2025-07-15 12:02:42,603 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:42,604 - GOAT - DEBUG - self.alt: 26.361
+2025-07-15 12:02:42,666 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:42,704 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:42,704 - GOAT - DEBUG - self.alt: 26.361
+2025-07-15 12:02:42,804 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:42,804 - GOAT - DEBUG - self.alt: 27.035
+2025-07-15 12:02:42,905 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:42,905 - GOAT - DEBUG - self.alt: 27.035
+2025-07-15 12:02:43,006 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:43,006 - GOAT - DEBUG - self.alt: 27.035
+2025-07-15 12:02:43,106 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:43,106 - GOAT - DEBUG - self.alt: 27.631
+2025-07-15 12:02:43,207 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:43,207 - GOAT - DEBUG - self.alt: 27.631
+2025-07-15 12:02:43,307 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:43,307 - GOAT - DEBUG - self.alt: 28.245
+2025-07-15 12:02:43,408 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:43,408 - GOAT - DEBUG - self.alt: 28.245
+2025-07-15 12:02:43,508 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:43,508 - GOAT - DEBUG - self.alt: 28.245
+2025-07-15 12:02:43,609 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:43,609 - GOAT - DEBUG - self.alt: 28.794
+2025-07-15 12:02:43,666 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:43,709 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:43,710 - GOAT - DEBUG - self.alt: 28.794
+2025-07-15 12:02:43,810 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:43,810 - GOAT - DEBUG - self.alt: 29.379
+2025-07-15 12:02:43,910 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:43,911 - GOAT - DEBUG - self.alt: 29.379
+2025-07-15 12:02:44,011 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:44,011 - GOAT - DEBUG - self.alt: 29.379
+2025-07-15 12:02:44,112 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:44,112 - GOAT - DEBUG - self.alt: 29.92
+2025-07-15 12:02:44,212 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:44,212 - GOAT - DEBUG - self.alt: 29.92
+2025-07-15 12:02:44,313 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:44,313 - GOAT - DEBUG - self.alt: 30.513
+2025-07-15 12:02:44,413 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:44,413 - GOAT - DEBUG - self.alt: 30.513
+2025-07-15 12:02:44,514 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:44,514 - GOAT - DEBUG - self.alt: 30.513
+2025-07-15 12:02:44,614 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:44,614 - GOAT - DEBUG - self.alt: 31.07
+2025-07-15 12:02:44,667 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:44,715 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:44,715 - GOAT - DEBUG - self.alt: 31.07
+2025-07-15 12:02:44,815 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:44,816 - GOAT - DEBUG - self.alt: 31.681
+2025-07-15 12:02:44,916 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:44,916 - GOAT - DEBUG - self.alt: 31.681
+2025-07-15 12:02:45,017 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:45,017 - GOAT - DEBUG - self.alt: 31.681
+2025-07-15 12:02:45,117 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:45,117 - GOAT - DEBUG - self.alt: 32.249
+2025-07-15 12:02:45,218 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:45,218 - GOAT - DEBUG - self.alt: 32.249
+2025-07-15 12:02:45,318 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:45,318 - GOAT - DEBUG - self.alt: 32.868
+2025-07-15 12:02:45,419 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:45,419 - GOAT - DEBUG - self.alt: 32.868
+2025-07-15 12:02:45,519 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:45,519 - GOAT - DEBUG - self.alt: 32.868
+2025-07-15 12:02:45,620 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:45,620 - GOAT - DEBUG - self.alt: 33.439
+2025-07-15 12:02:45,668 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:45,720 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:45,721 - GOAT - DEBUG - self.alt: 33.439
+2025-07-15 12:02:45,821 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:45,821 - GOAT - DEBUG - self.alt: 34.057
+2025-07-15 12:02:45,922 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:45,922 - GOAT - DEBUG - self.alt: 34.057
+2025-07-15 12:02:46,023 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:46,023 - GOAT - DEBUG - self.alt: 34.057
+2025-07-15 12:02:46,123 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:46,123 - GOAT - DEBUG - self.alt: 34.624
+2025-07-15 12:02:46,224 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:46,224 - GOAT - DEBUG - self.alt: 34.624
+2025-07-15 12:02:46,324 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:46,324 - GOAT - DEBUG - self.alt: 35.239
+2025-07-15 12:02:46,425 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:46,425 - GOAT - DEBUG - self.alt: 35.239
+2025-07-15 12:02:46,525 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:46,525 - GOAT - DEBUG - self.alt: 35.239
+2025-07-15 12:02:46,626 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:46,626 - GOAT - DEBUG - self.alt: 35.805
+2025-07-15 12:02:46,669 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:46,727 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:46,727 - GOAT - DEBUG - self.alt: 35.805
+2025-07-15 12:02:46,827 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:46,827 - GOAT - DEBUG - self.alt: 36.428
+2025-07-15 12:02:46,928 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:46,928 - GOAT - DEBUG - self.alt: 36.428
+2025-07-15 12:02:47,028 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:47,028 - GOAT - DEBUG - self.alt: 36.428
+2025-07-15 12:02:47,129 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:47,129 - GOAT - DEBUG - self.alt: 37.061
+2025-07-15 12:02:47,229 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:47,230 - GOAT - DEBUG - self.alt: 37.061
+2025-07-15 12:02:47,330 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:47,331 - GOAT - DEBUG - self.alt: 37.647
+2025-07-15 12:02:47,431 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:47,431 - GOAT - DEBUG - self.alt: 37.647
+2025-07-15 12:02:47,532 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:47,532 - GOAT - DEBUG - self.alt: 37.647
+2025-07-15 12:02:47,632 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:47,632 - GOAT - DEBUG - self.alt: 38.278
+2025-07-15 12:02:47,669 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:47,733 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:47,733 - GOAT - DEBUG - self.alt: 38.278
+2025-07-15 12:02:47,833 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:47,833 - GOAT - DEBUG - self.alt: 38.864
+2025-07-15 12:02:47,934 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:47,934 - GOAT - DEBUG - self.alt: 38.864
+2025-07-15 12:02:48,034 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:48,035 - GOAT - DEBUG - self.alt: 38.864
+2025-07-15 12:02:48,135 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:48,135 - GOAT - DEBUG - self.alt: 39.504
+2025-07-15 12:02:48,235 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:48,236 - GOAT - DEBUG - self.alt: 39.504
+2025-07-15 12:02:48,336 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:48,336 - GOAT - DEBUG - self.alt: 40.09
+2025-07-15 12:02:48,437 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:48,437 - GOAT - DEBUG - self.alt: 40.09
+2025-07-15 12:02:48,537 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:48,537 - GOAT - DEBUG - self.alt: 40.09
+2025-07-15 12:02:48,638 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:48,638 - GOAT - DEBUG - self.alt: 40.73
+2025-07-15 12:02:48,670 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:48,738 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:48,738 - GOAT - DEBUG - self.alt: 40.73
+2025-07-15 12:02:48,839 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:48,839 - GOAT - DEBUG - self.alt: 41.325
+2025-07-15 12:02:48,939 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:48,939 - GOAT - DEBUG - self.alt: 41.325
+2025-07-15 12:02:49,040 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:49,040 - GOAT - DEBUG - self.alt: 41.325
+2025-07-15 12:02:49,140 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:49,140 - GOAT - DEBUG - self.alt: 41.917
+2025-07-15 12:02:49,241 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:49,241 - GOAT - DEBUG - self.alt: 41.917
+2025-07-15 12:02:49,341 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:49,342 - GOAT - DEBUG - self.alt: 41.917
+2025-07-15 12:02:49,442 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:49,442 - GOAT - DEBUG - self.alt: 42.562
+2025-07-15 12:02:49,543 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:49,543 - GOAT - DEBUG - self.alt: 42.562
+2025-07-15 12:02:49,643 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:49,643 - GOAT - DEBUG - self.alt: 43.166
+2025-07-15 12:02:49,672 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:49,744 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:49,744 - GOAT - DEBUG - self.alt: 43.166
+2025-07-15 12:02:49,845 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:49,845 - GOAT - DEBUG - self.alt: 43.166
+2025-07-15 12:02:49,945 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:49,946 - GOAT - DEBUG - self.alt: 43.825
+2025-07-15 12:02:50,046 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:50,046 - GOAT - DEBUG - self.alt: 43.825
+2025-07-15 12:02:50,146 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:50,146 - GOAT - DEBUG - self.alt: 44.436
+2025-07-15 12:02:50,247 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:50,247 - GOAT - DEBUG - self.alt: 44.436
+2025-07-15 12:02:50,348 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:50,348 - GOAT - DEBUG - self.alt: 44.436
+2025-07-15 12:02:50,448 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:50,448 - GOAT - DEBUG - self.alt: 45.101
+2025-07-15 12:02:50,549 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:50,549 - GOAT - DEBUG - self.alt: 45.101
+2025-07-15 12:02:50,649 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:50,649 - GOAT - DEBUG - self.alt: 45.718
+2025-07-15 12:02:50,672 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:50,750 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:50,750 - GOAT - DEBUG - self.alt: 45.718
+2025-07-15 12:02:50,851 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:50,851 - GOAT - DEBUG - self.alt: 46.385
+2025-07-15 12:02:50,951 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:50,951 - GOAT - DEBUG - self.alt: 46.385
+2025-07-15 12:02:51,052 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:51,052 - GOAT - DEBUG - self.alt: 46.385
+2025-07-15 12:02:51,152 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:51,152 - GOAT - DEBUG - self.alt: 47.005
+2025-07-15 12:02:51,252 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:51,252 - GOAT - DEBUG - self.alt: 47.005
+2025-07-15 12:02:51,353 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:51,353 - GOAT - DEBUG - self.alt: 47.678
+2025-07-15 12:02:51,454 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:51,454 - GOAT - DEBUG - self.alt: 47.678
+2025-07-15 12:02:51,554 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:51,554 - GOAT - DEBUG - self.alt: 47.678
+2025-07-15 12:02:51,654 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:51,655 - GOAT - DEBUG - self.alt: 48.297
+2025-07-15 12:02:51,673 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:51,755 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:51,755 - GOAT - DEBUG - self.alt: 48.297
+2025-07-15 12:02:51,856 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:51,856 - GOAT - DEBUG - self.alt: 48.967
+2025-07-15 12:02:51,956 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:51,956 - GOAT - DEBUG - self.alt: 48.967
+2025-07-15 12:02:52,057 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:52,057 - GOAT - DEBUG - self.alt: 48.967
+2025-07-15 12:02:52,157 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:52,157 - GOAT - DEBUG - self.alt: 49.588
+2025-07-15 12:02:52,258 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:52,258 - GOAT - DEBUG - self.alt: 49.588
+2025-07-15 12:02:52,359 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:52,359 - GOAT - DEBUG - self.alt: 50.263
+2025-07-15 12:02:52,459 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:52,459 - GOAT - DEBUG - self.alt: 50.263
+2025-07-15 12:02:52,560 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:52,560 - GOAT - DEBUG - self.alt: 50.263
+2025-07-15 12:02:52,660 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:52,660 - GOAT - DEBUG - self.alt: 50.891
+2025-07-15 12:02:52,674 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:52,761 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:52,761 - GOAT - DEBUG - self.alt: 50.891
+2025-07-15 12:02:52,861 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:52,861 - GOAT - DEBUG - self.alt: 51.572
+2025-07-15 12:02:52,962 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:52,962 - GOAT - DEBUG - self.alt: 51.572
+2025-07-15 12:02:53,062 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:53,063 - GOAT - DEBUG - self.alt: 51.572
+2025-07-15 12:02:53,163 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:53,163 - GOAT - DEBUG - self.alt: 52.204
+2025-07-15 12:02:53,263 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:53,264 - GOAT - DEBUG - self.alt: 52.204
+2025-07-15 12:02:53,364 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:53,364 - GOAT - DEBUG - self.alt: 52.891
+2025-07-15 12:02:53,464 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:53,465 - GOAT - DEBUG - self.alt: 52.891
+2025-07-15 12:02:53,565 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:53,565 - GOAT - DEBUG - self.alt: 52.891
+2025-07-15 12:02:53,665 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:53,665 - GOAT - DEBUG - self.alt: 53.524
+2025-07-15 12:02:53,675 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:53,766 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:53,766 - GOAT - DEBUG - self.alt: 53.524
+2025-07-15 12:02:53,866 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:53,866 - GOAT - DEBUG - self.alt: 54.209
+2025-07-15 12:02:53,967 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:53,967 - GOAT - DEBUG - self.alt: 54.209
+2025-07-15 12:02:54,067 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:54,067 - GOAT - DEBUG - self.alt: 54.209
+2025-07-15 12:02:54,168 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:54,168 - GOAT - DEBUG - self.alt: 54.839
+2025-07-15 12:02:54,268 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:54,268 - GOAT - DEBUG - self.alt: 54.839
+2025-07-15 12:02:54,369 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:54,369 - GOAT - DEBUG - self.alt: 55.527
+2025-07-15 12:02:54,469 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:54,469 - GOAT - DEBUG - self.alt: 55.527
+2025-07-15 12:02:54,570 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:54,570 - GOAT - DEBUG - self.alt: 55.527
+2025-07-15 12:02:54,671 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:54,671 - GOAT - DEBUG - self.alt: 56.167
+2025-07-15 12:02:54,675 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:54,771 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:54,771 - GOAT - DEBUG - self.alt: 56.167
+2025-07-15 12:02:54,872 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:54,872 - GOAT - DEBUG - self.alt: 56.863
+2025-07-15 12:02:54,972 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:54,972 - GOAT - DEBUG - self.alt: 56.863
+2025-07-15 12:02:55,073 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:55,073 - GOAT - DEBUG - self.alt: 56.863
+2025-07-15 12:02:55,173 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:55,173 - GOAT - DEBUG - self.alt: 57.51
+2025-07-15 12:02:55,274 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:55,274 - GOAT - DEBUG - self.alt: 57.51
+2025-07-15 12:02:55,374 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:55,374 - GOAT - DEBUG - self.alt: 58.21
+2025-07-15 12:02:55,475 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:55,475 - GOAT - DEBUG - self.alt: 58.21
+2025-07-15 12:02:55,575 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:55,575 - GOAT - DEBUG - self.alt: 58.21
+2025-07-15 12:02:55,676 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:55,676 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:55,676 - GOAT - DEBUG - self.alt: 58.855
+2025-07-15 12:02:55,777 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:55,777 - GOAT - DEBUG - self.alt: 58.855
+2025-07-15 12:02:55,877 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:55,877 - GOAT - DEBUG - self.alt: 59.553
+2025-07-15 12:02:55,978 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:55,978 - GOAT - DEBUG - self.alt: 59.553
+2025-07-15 12:02:56,078 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:56,078 - GOAT - DEBUG - self.alt: 59.553
+2025-07-15 12:02:56,179 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:56,179 - GOAT - DEBUG - self.alt: 60.248
+2025-07-15 12:02:56,279 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:56,279 - GOAT - DEBUG - self.alt: 60.248
+2025-07-15 12:02:56,380 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:56,380 - GOAT - DEBUG - self.alt: 60.892
+2025-07-15 12:02:56,480 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:56,481 - GOAT - DEBUG - self.alt: 60.892
+2025-07-15 12:02:56,581 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:56,581 - GOAT - DEBUG - self.alt: 60.892
+2025-07-15 12:02:56,676 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:56,682 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:56,682 - GOAT - DEBUG - self.alt: 61.596
+2025-07-15 12:02:56,782 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:56,782 - GOAT - DEBUG - self.alt: 61.596
+2025-07-15 12:02:56,883 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:56,883 - GOAT - DEBUG - self.alt: 62.25
+2025-07-15 12:02:56,983 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:56,983 - GOAT - DEBUG - self.alt: 62.25
+2025-07-15 12:02:57,084 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:57,084 - GOAT - DEBUG - self.alt: 62.25
+2025-07-15 12:02:57,184 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:57,184 - GOAT - DEBUG - self.alt: 62.958
+2025-07-15 12:02:57,285 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:57,285 - GOAT - DEBUG - self.alt: 62.958
+2025-07-15 12:02:57,385 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:57,385 - GOAT - DEBUG - self.alt: 63.609
+2025-07-15 12:02:57,486 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:57,486 - GOAT - DEBUG - self.alt: 63.609
+2025-07-15 12:02:57,586 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:57,586 - GOAT - DEBUG - self.alt: 63.609
+2025-07-15 12:02:57,677 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:57,687 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:57,687 - GOAT - DEBUG - self.alt: 64.319
+2025-07-15 12:02:57,787 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:57,787 - GOAT - DEBUG - self.alt: 64.319
+2025-07-15 12:02:57,888 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:57,888 - GOAT - DEBUG - self.alt: 64.978
+2025-07-15 12:02:57,988 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:57,988 - GOAT - DEBUG - self.alt: 64.978
+2025-07-15 12:02:58,089 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:58,089 - GOAT - DEBUG - self.alt: 64.978
+2025-07-15 12:02:58,189 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:58,189 - GOAT - DEBUG - self.alt: 65.635
+2025-07-15 12:02:58,290 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:58,290 - GOAT - DEBUG - self.alt: 65.635
+2025-07-15 12:02:58,390 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:58,390 - GOAT - DEBUG - self.alt: 66.344
+2025-07-15 12:02:58,491 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:58,491 - GOAT - DEBUG - self.alt: 66.344
+2025-07-15 12:02:58,591 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:58,592 - GOAT - DEBUG - self.alt: 66.344
+2025-07-15 12:02:58,678 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:58,692 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:58,692 - GOAT - DEBUG - self.alt: 67.009
+2025-07-15 12:02:58,793 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:58,793 - GOAT - DEBUG - self.alt: 67.009
+2025-07-15 12:02:58,894 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:58,894 - GOAT - DEBUG - self.alt: 67.733
+2025-07-15 12:02:58,994 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:58,994 - GOAT - DEBUG - self.alt: 67.733
+2025-07-15 12:02:59,095 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:59,095 - GOAT - DEBUG - self.alt: 67.733
+2025-07-15 12:02:59,195 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:59,195 - GOAT - DEBUG - self.alt: 68.405
+2025-07-15 12:02:59,296 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:59,296 - GOAT - DEBUG - self.alt: 68.405
+2025-07-15 12:02:59,396 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:59,396 - GOAT - DEBUG - self.alt: 69.134
+2025-07-15 12:02:59,497 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:59,497 - GOAT - DEBUG - self.alt: 69.134
+2025-07-15 12:02:59,597 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:59,597 - GOAT - DEBUG - self.alt: 69.134
+2025-07-15 12:02:59,679 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:02:59,698 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:59,698 - GOAT - DEBUG - self.alt: 69.805
+2025-07-15 12:02:59,798 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:59,798 - GOAT - DEBUG - self.alt: 69.805
+2025-07-15 12:02:59,899 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:59,899 - GOAT - DEBUG - self.alt: 70.528
+2025-07-15 12:02:59,999 - GOAT - DEBUG - Diving out
+2025-07-15 12:02:59,999 - GOAT - DEBUG - self.alt: 70.528
+2025-07-15 12:03:00,100 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:00,100 - GOAT - DEBUG - self.alt: 70.528
+2025-07-15 12:03:00,200 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:00,200 - GOAT - DEBUG - self.alt: 71.195
+2025-07-15 12:03:00,301 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:00,301 - GOAT - DEBUG - self.alt: 71.195
+2025-07-15 12:03:00,402 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:00,402 - GOAT - DEBUG - self.alt: 71.914
+2025-07-15 12:03:00,502 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:00,502 - GOAT - DEBUG - self.alt: 71.914
+2025-07-15 12:03:00,602 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:00,603 - GOAT - DEBUG - self.alt: 71.914
+2025-07-15 12:03:00,680 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:03:00,703 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:00,703 - GOAT - DEBUG - self.alt: 72.581
+2025-07-15 12:03:00,803 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:00,803 - GOAT - DEBUG - self.alt: 72.581
+2025-07-15 12:03:00,904 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:00,904 - GOAT - DEBUG - self.alt: 73.305
+2025-07-15 12:03:01,004 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:01,005 - GOAT - DEBUG - self.alt: 73.305
+2025-07-15 12:03:01,105 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:01,105 - GOAT - DEBUG - self.alt: 73.305
+2025-07-15 12:03:01,206 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:01,206 - GOAT - DEBUG - self.alt: 73.977
+2025-07-15 12:03:01,306 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:01,306 - GOAT - DEBUG - self.alt: 73.977
+2025-07-15 12:03:01,407 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:01,407 - GOAT - DEBUG - self.alt: 74.701
+2025-07-15 12:03:01,507 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:01,507 - GOAT - DEBUG - self.alt: 74.701
+2025-07-15 12:03:01,608 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:01,608 - GOAT - DEBUG - self.alt: 74.701
+2025-07-15 12:03:01,680 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:03:01,708 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:01,708 - GOAT - DEBUG - self.alt: 75.368
+2025-07-15 12:03:01,809 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:01,809 - GOAT - DEBUG - self.alt: 75.368
+2025-07-15 12:03:01,910 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:01,910 - GOAT - DEBUG - self.alt: 76.093
+2025-07-15 12:03:02,010 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:02,010 - GOAT - DEBUG - self.alt: 76.093
+2025-07-15 12:03:02,111 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:02,111 - GOAT - DEBUG - self.alt: 76.093
+2025-07-15 12:03:02,211 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:02,211 - GOAT - DEBUG - self.alt: 76.763
+2025-07-15 12:03:02,312 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:02,312 - GOAT - DEBUG - self.alt: 76.763
+2025-07-15 12:03:02,412 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:02,412 - GOAT - DEBUG - self.alt: 77.496
+2025-07-15 12:03:02,513 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:02,513 - GOAT - DEBUG - self.alt: 77.496
+2025-07-15 12:03:02,613 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:02,614 - GOAT - DEBUG - self.alt: 77.496
+2025-07-15 12:03:02,681 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:03:02,714 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:02,714 - GOAT - DEBUG - self.alt: 78.174
+2025-07-15 12:03:02,815 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:02,815 - GOAT - DEBUG - self.alt: 78.174
+2025-07-15 12:03:02,915 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:02,915 - GOAT - DEBUG - self.alt: 78.904
+2025-07-15 12:03:03,016 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:03,016 - GOAT - DEBUG - self.alt: 78.904
+2025-07-15 12:03:03,116 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:03,116 - GOAT - DEBUG - self.alt: 78.904
+2025-07-15 12:03:03,217 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:03,217 - GOAT - DEBUG - self.alt: 79.574
+2025-07-15 12:03:03,317 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:03,317 - GOAT - DEBUG - self.alt: 79.574
+2025-07-15 12:03:03,418 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:03,418 - GOAT - DEBUG - self.alt: 80.301
+2025-07-15 12:03:03,518 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:03,518 - GOAT - DEBUG - self.alt: 80.301
+2025-07-15 12:03:03,619 - GOAT - DEBUG - Diving out
+2025-07-15 12:03:03,619 - GOAT - DEBUG - self.alt: 80.301
+2025-07-15 12:03:03,682 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-15 12:03:03,719 - GOAT - DEBUG - Dive out complete.
+2025-07-15 12:03:03,719 - GOAT - DEBUG - approach_counter: 1
+2025-07-15 12:03:03,801 - GOAT - DEBUG - going to approach destination
+2025-07-15 12:03:03,801 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:03,902 - GOAT - DEBUG - point1: (41.1047502, 28.5408119), target: (41.0996076, 28.550591)
+2025-07-15 12:03:03,902 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:04,002 - GOAT - DEBUG - point1: (41.1047502, 28.5408119), target: (41.0996076, 28.550591)
+2025-07-15 12:03:04,003 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:04,103 - GOAT - DEBUG - point1: (41.1047502, 28.5408119), target: (41.0996076, 28.550591)
+2025-07-15 12:03:04,103 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:04,204 - GOAT - DEBUG - point1: (41.1047634, 28.5407768), target: (41.0996076, 28.550591)
+2025-07-15 12:03:04,204 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:04,304 - GOAT - DEBUG - point1: (41.1047634, 28.5407768), target: (41.0996076, 28.550591)
+2025-07-15 12:03:04,305 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:04,405 - GOAT - DEBUG - point1: (41.1047778, 28.5407388), target: (41.0996076, 28.550591)
+2025-07-15 12:03:04,405 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:04,505 - GOAT - DEBUG - point1: (41.1047778, 28.5407388), target: (41.0996076, 28.550591)
+2025-07-15 12:03:04,506 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:04,606 - GOAT - DEBUG - point1: (41.1047778, 28.5407388), target: (41.0996076, 28.550591)
+2025-07-15 12:03:04,606 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:04,683 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:04,706 - GOAT - DEBUG - point1: (41.1047911, 28.5407037), target: (41.0996076, 28.550591)
+2025-07-15 12:03:04,707 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:04,807 - GOAT - DEBUG - point1: (41.1047911, 28.5407037), target: (41.0996076, 28.550591)
+2025-07-15 12:03:04,807 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:04,908 - GOAT - DEBUG - point1: (41.1048054, 28.5406658), target: (41.0996076, 28.550591)
+2025-07-15 12:03:04,908 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:05,008 - GOAT - DEBUG - point1: (41.1048054, 28.5406658), target: (41.0996076, 28.550591)
+2025-07-15 12:03:05,008 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:05,109 - GOAT - DEBUG - point1: (41.1048054, 28.5406658), target: (41.0996076, 28.550591)
+2025-07-15 12:03:05,109 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:05,209 - GOAT - DEBUG - point1: (41.1048196, 28.5406283), target: (41.0996076, 28.550591)
+2025-07-15 12:03:05,210 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:05,310 - GOAT - DEBUG - point1: (41.1048196, 28.5406283), target: (41.0996076, 28.550591)
+2025-07-15 12:03:05,310 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:05,411 - GOAT - DEBUG - point1: (41.1048327, 28.5405937), target: (41.0996076, 28.550591)
+2025-07-15 12:03:05,411 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:05,511 - GOAT - DEBUG - point1: (41.1048327, 28.5405937), target: (41.0996076, 28.550591)
+2025-07-15 12:03:05,511 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:05,612 - GOAT - DEBUG - point1: (41.1048327, 28.5405937), target: (41.0996076, 28.550591)
+2025-07-15 12:03:05,612 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:05,684 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:05,712 - GOAT - DEBUG - point1: (41.1048469, 28.5405563), target: (41.0996076, 28.550591)
+2025-07-15 12:03:05,713 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:05,813 - GOAT - DEBUG - point1: (41.1048469, 28.5405563), target: (41.0996076, 28.550591)
+2025-07-15 12:03:05,813 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:05,913 - GOAT - DEBUG - point1: (41.1048599, 28.5405216), target: (41.0996076, 28.550591)
+2025-07-15 12:03:05,914 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:06,014 - GOAT - DEBUG - point1: (41.1048599, 28.5405216), target: (41.0996076, 28.550591)
+2025-07-15 12:03:06,014 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:06,115 - GOAT - DEBUG - point1: (41.1048599, 28.5405216), target: (41.0996076, 28.550591)
+2025-07-15 12:03:06,115 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:06,215 - GOAT - DEBUG - point1: (41.1048741, 28.5404841), target: (41.0996076, 28.550591)
+2025-07-15 12:03:06,215 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:06,316 - GOAT - DEBUG - point1: (41.1048741, 28.5404841), target: (41.0996076, 28.550591)
+2025-07-15 12:03:06,316 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:06,416 - GOAT - DEBUG - point1: (41.1048873, 28.5404493), target: (41.0996076, 28.550591)
+2025-07-15 12:03:06,416 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:06,517 - GOAT - DEBUG - point1: (41.1048873, 28.5404493), target: (41.0996076, 28.550591)
+2025-07-15 12:03:06,517 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:06,617 - GOAT - DEBUG - point1: (41.1048873, 28.5404493), target: (41.0996076, 28.550591)
+2025-07-15 12:03:06,618 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:06,685 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:06,718 - GOAT - DEBUG - point1: (41.1049005, 28.5404144), target: (41.0996076, 28.550591)
+2025-07-15 12:03:06,718 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:06,818 - GOAT - DEBUG - point1: (41.1049005, 28.5404144), target: (41.0996076, 28.550591)
+2025-07-15 12:03:06,819 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:06,919 - GOAT - DEBUG - point1: (41.104915, 28.5403761), target: (41.0996076, 28.550591)
+2025-07-15 12:03:06,920 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:07,020 - GOAT - DEBUG - point1: (41.104915, 28.5403761), target: (41.0996076, 28.550591)
+2025-07-15 12:03:07,021 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:07,121 - GOAT - DEBUG - point1: (41.104915, 28.5403761), target: (41.0996076, 28.550591)
+2025-07-15 12:03:07,121 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:07,222 - GOAT - DEBUG - point1: (41.1049294, 28.5403394), target: (41.0996076, 28.550591)
+2025-07-15 12:03:07,222 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:07,322 - GOAT - DEBUG - point1: (41.1049294, 28.5403394), target: (41.0996076, 28.550591)
+2025-07-15 12:03:07,323 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:07,423 - GOAT - DEBUG - point1: (41.1049474, 28.5403004), target: (41.0996076, 28.550591)
+2025-07-15 12:03:07,423 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:07,524 - GOAT - DEBUG - point1: (41.1049474, 28.5403004), target: (41.0996076, 28.550591)
+2025-07-15 12:03:07,524 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:07,624 - GOAT - DEBUG - point1: (41.1049474, 28.5403004), target: (41.0996076, 28.550591)
+2025-07-15 12:03:07,625 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:07,685 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:07,725 - GOAT - DEBUG - point1: (41.1049674, 28.5402675), target: (41.0996076, 28.550591)
+2025-07-15 12:03:07,725 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:07,826 - GOAT - DEBUG - point1: (41.1049674, 28.5402675), target: (41.0996076, 28.550591)
+2025-07-15 12:03:07,826 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:07,926 - GOAT - DEBUG - point1: (41.1049934, 28.5402374), target: (41.0996076, 28.550591)
+2025-07-15 12:03:07,926 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:08,027 - GOAT - DEBUG - point1: (41.1049934, 28.5402374), target: (41.0996076, 28.550591)
+2025-07-15 12:03:08,027 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:08,127 - GOAT - DEBUG - point1: (41.1049934, 28.5402374), target: (41.0996076, 28.550591)
+2025-07-15 12:03:08,128 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:08,228 - GOAT - DEBUG - point1: (41.1050209, 28.5402149), target: (41.0996076, 28.550591)
+2025-07-15 12:03:08,228 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:08,329 - GOAT - DEBUG - point1: (41.1050209, 28.5402149), target: (41.0996076, 28.550591)
+2025-07-15 12:03:08,329 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:08,429 - GOAT - DEBUG - point1: (41.105054, 28.5401954), target: (41.0996076, 28.550591)
+2025-07-15 12:03:08,430 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:08,530 - GOAT - DEBUG - point1: (41.105054, 28.5401954), target: (41.0996076, 28.550591)
+2025-07-15 12:03:08,530 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:08,631 - GOAT - DEBUG - point1: (41.105054, 28.5401954), target: (41.0996076, 28.550591)
+2025-07-15 12:03:08,631 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:08,686 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:08,732 - GOAT - DEBUG - point1: (41.1050873, 28.5401812), target: (41.0996076, 28.550591)
+2025-07-15 12:03:08,732 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:08,832 - GOAT - DEBUG - point1: (41.1050873, 28.5401812), target: (41.0996076, 28.550591)
+2025-07-15 12:03:08,833 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:08,933 - GOAT - DEBUG - point1: (41.1051259, 28.5401701), target: (41.0996076, 28.550591)
+2025-07-15 12:03:08,933 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:09,034 - GOAT - DEBUG - point1: (41.1051259, 28.5401701), target: (41.0996076, 28.550591)
+2025-07-15 12:03:09,034 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:09,135 - GOAT - DEBUG - point1: (41.1051259, 28.5401701), target: (41.0996076, 28.550591)
+2025-07-15 12:03:09,135 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:09,235 - GOAT - DEBUG - point1: (41.1051635, 28.540165), target: (41.0996076, 28.550591)
+2025-07-15 12:03:09,235 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:09,336 - GOAT - DEBUG - point1: (41.1051635, 28.540165), target: (41.0996076, 28.550591)
+2025-07-15 12:03:09,336 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:09,436 - GOAT - DEBUG - point1: (41.1052057, 28.5401663), target: (41.0996076, 28.550591)
+2025-07-15 12:03:09,437 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:09,537 - GOAT - DEBUG - point1: (41.1052057, 28.5401663), target: (41.0996076, 28.550591)
+2025-07-15 12:03:09,537 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:09,638 - GOAT - DEBUG - point1: (41.1052057, 28.5401663), target: (41.0996076, 28.550591)
+2025-07-15 12:03:09,638 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:09,687 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:09,738 - GOAT - DEBUG - point1: (41.1052448, 28.5401754), target: (41.0996076, 28.550591)
+2025-07-15 12:03:09,739 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:09,839 - GOAT - DEBUG - point1: (41.1052448, 28.5401754), target: (41.0996076, 28.550591)
+2025-07-15 12:03:09,839 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:09,940 - GOAT - DEBUG - point1: (41.1052858, 28.5401946), target: (41.0996076, 28.550591)
+2025-07-15 12:03:09,940 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:10,040 - GOAT - DEBUG - point1: (41.1052858, 28.5401946), target: (41.0996076, 28.550591)
+2025-07-15 12:03:10,041 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:10,141 - GOAT - DEBUG - point1: (41.1052858, 28.5401946), target: (41.0996076, 28.550591)
+2025-07-15 12:03:10,141 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:10,241 - GOAT - DEBUG - point1: (41.105321, 28.5402208), target: (41.0996076, 28.550591)
+2025-07-15 12:03:10,242 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:10,342 - GOAT - DEBUG - point1: (41.105321, 28.5402208), target: (41.0996076, 28.550591)
+2025-07-15 12:03:10,342 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:10,442 - GOAT - DEBUG - point1: (41.105355, 28.5402572), target: (41.0996076, 28.550591)
+2025-07-15 12:03:10,443 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:10,543 - GOAT - DEBUG - point1: (41.105355, 28.5402572), target: (41.0996076, 28.550591)
+2025-07-15 12:03:10,543 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:10,644 - GOAT - DEBUG - point1: (41.105355, 28.5402572), target: (41.0996076, 28.550591)
+2025-07-15 12:03:10,644 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:10,688 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:10,744 - GOAT - DEBUG - point1: (41.1053821, 28.5402968), target: (41.0996076, 28.550591)
+2025-07-15 12:03:10,745 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:10,845 - GOAT - DEBUG - point1: (41.1053821, 28.5402968), target: (41.0996076, 28.550591)
+2025-07-15 12:03:10,845 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:10,946 - GOAT - DEBUG - point1: (41.1053821, 28.5402968), target: (41.0996076, 28.550591)
+2025-07-15 12:03:10,946 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:11,047 - GOAT - DEBUG - point1: (41.1054068, 28.540345), target: (41.0996076, 28.550591)
+2025-07-15 12:03:11,047 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:11,147 - GOAT - DEBUG - point1: (41.1054068, 28.540345), target: (41.0996076, 28.550591)
+2025-07-15 12:03:11,148 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:11,248 - GOAT - DEBUG - point1: (41.1054255, 28.5403932), target: (41.0996076, 28.550591)
+2025-07-15 12:03:11,248 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:11,349 - GOAT - DEBUG - point1: (41.1054255, 28.5403932), target: (41.0996076, 28.550591)
+2025-07-15 12:03:11,349 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:11,449 - GOAT - DEBUG - point1: (41.1054255, 28.5403932), target: (41.0996076, 28.550591)
+2025-07-15 12:03:11,449 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:11,550 - GOAT - DEBUG - point1: (41.1054414, 28.5404487), target: (41.0996076, 28.550591)
+2025-07-15 12:03:11,550 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:11,651 - GOAT - DEBUG - point1: (41.1054414, 28.5404487), target: (41.0996076, 28.550591)
+2025-07-15 12:03:11,651 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:11,689 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:11,752 - GOAT - DEBUG - point1: (41.1054521, 28.5405024), target: (41.0996076, 28.550591)
+2025-07-15 12:03:11,752 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:11,852 - GOAT - DEBUG - point1: (41.1054521, 28.5405024), target: (41.0996076, 28.550591)
+2025-07-15 12:03:11,853 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:11,953 - GOAT - DEBUG - point1: (41.1054521, 28.5405024), target: (41.0996076, 28.550591)
+2025-07-15 12:03:11,953 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:12,054 - GOAT - DEBUG - point1: (41.1054591, 28.5405627), target: (41.0996076, 28.550591)
+2025-07-15 12:03:12,054 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:12,154 - GOAT - DEBUG - point1: (41.1054591, 28.5405627), target: (41.0996076, 28.550591)
+2025-07-15 12:03:12,155 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:12,255 - GOAT - DEBUG - point1: (41.1054609, 28.5406195), target: (41.0996076, 28.550591)
+2025-07-15 12:03:12,255 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:12,356 - GOAT - DEBUG - point1: (41.1054609, 28.5406195), target: (41.0996076, 28.550591)
+2025-07-15 12:03:12,356 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:12,456 - GOAT - DEBUG - point1: (41.1054609, 28.5406195), target: (41.0996076, 28.550591)
+2025-07-15 12:03:12,457 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:12,557 - GOAT - DEBUG - point1: (41.1054576, 28.5406815), target: (41.0996076, 28.550591)
+2025-07-15 12:03:12,558 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:12,658 - GOAT - DEBUG - point1: (41.1054576, 28.5406815), target: (41.0996076, 28.550591)
+2025-07-15 12:03:12,658 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:12,690 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:12,759 - GOAT - DEBUG - point1: (41.1054498, 28.5407383), target: (41.0996076, 28.550591)
+2025-07-15 12:03:12,759 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:12,860 - GOAT - DEBUG - point1: (41.1054498, 28.5407383), target: (41.0996076, 28.550591)
+2025-07-15 12:03:12,860 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:12,960 - GOAT - DEBUG - point1: (41.1054498, 28.5407383), target: (41.0996076, 28.550591)
+2025-07-15 12:03:12,961 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:13,061 - GOAT - DEBUG - point1: (41.1054367, 28.5407987), target: (41.0996076, 28.550591)
+2025-07-15 12:03:13,061 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:13,162 - GOAT - DEBUG - point1: (41.1054367, 28.5407987), target: (41.0996076, 28.550591)
+2025-07-15 12:03:13,162 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:13,262 - GOAT - DEBUG - point1: (41.1054213, 28.5408533), target: (41.0996076, 28.550591)
+2025-07-15 12:03:13,263 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:13,363 - GOAT - DEBUG - point1: (41.1054213, 28.5408533), target: (41.0996076, 28.550591)
+2025-07-15 12:03:13,363 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:13,464 - GOAT - DEBUG - point1: (41.1054213, 28.5408533), target: (41.0996076, 28.550591)
+2025-07-15 12:03:13,464 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:13,564 - GOAT - DEBUG - point1: (41.1054017, 28.5409112), target: (41.0996076, 28.550591)
+2025-07-15 12:03:13,565 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:13,665 - GOAT - DEBUG - point1: (41.1054017, 28.5409112), target: (41.0996076, 28.550591)
+2025-07-15 12:03:13,666 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:13,691 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:13,766 - GOAT - DEBUG - point1: (41.1054017, 28.5409112), target: (41.0996076, 28.550591)
+2025-07-15 12:03:13,766 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:13,867 - GOAT - DEBUG - point1: (41.1053802, 28.5409683), target: (41.0996076, 28.550591)
+2025-07-15 12:03:13,867 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:13,968 - GOAT - DEBUG - point1: (41.1053802, 28.5409683), target: (41.0996076, 28.550591)
+2025-07-15 12:03:13,968 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:14,068 - GOAT - DEBUG - point1: (41.1053802, 28.5409683), target: (41.0996076, 28.550591)
+2025-07-15 12:03:14,069 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:14,169 - GOAT - DEBUG - point1: (41.1053591, 28.5410202), target: (41.0996076, 28.550591)
+2025-07-15 12:03:14,169 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:14,269 - GOAT - DEBUG - point1: (41.1053591, 28.5410202), target: (41.0996076, 28.550591)
+2025-07-15 12:03:14,270 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:14,370 - GOAT - DEBUG - point1: (41.1053357, 28.5410757), target: (41.0996076, 28.550591)
+2025-07-15 12:03:14,370 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:14,471 - GOAT - DEBUG - point1: (41.1053357, 28.5410757), target: (41.0996076, 28.550591)
+2025-07-15 12:03:14,471 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:14,571 - GOAT - DEBUG - point1: (41.1053357, 28.5410757), target: (41.0996076, 28.550591)
+2025-07-15 12:03:14,572 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:14,672 - GOAT - DEBUG - point1: (41.1053134, 28.5411265), target: (41.0996076, 28.550591)
+2025-07-15 12:03:14,672 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:14,692 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:14,773 - GOAT - DEBUG - point1: (41.1053134, 28.5411265), target: (41.0996076, 28.550591)
+2025-07-15 12:03:14,773 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:14,873 - GOAT - DEBUG - point1: (41.1052888, 28.5411813), target: (41.0996076, 28.550591)
+2025-07-15 12:03:14,874 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:14,974 - GOAT - DEBUG - point1: (41.1052888, 28.5411813), target: (41.0996076, 28.550591)
+2025-07-15 12:03:14,974 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:15,075 - GOAT - DEBUG - point1: (41.1052888, 28.5411813), target: (41.0996076, 28.550591)
+2025-07-15 12:03:15,075 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:15,175 - GOAT - DEBUG - point1: (41.1052656, 28.5412317), target: (41.0996076, 28.550591)
+2025-07-15 12:03:15,176 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:15,276 - GOAT - DEBUG - point1: (41.1052656, 28.5412317), target: (41.0996076, 28.550591)
+2025-07-15 12:03:15,276 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:15,377 - GOAT - DEBUG - point1: (41.1052656, 28.5412317), target: (41.0996076, 28.550591)
+2025-07-15 12:03:15,377 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:15,477 - GOAT - DEBUG - point1: (41.10524, 28.5412859), target: (41.0996076, 28.550591)
+2025-07-15 12:03:15,477 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:15,578 - GOAT - DEBUG - point1: (41.10524, 28.5412859), target: (41.0996076, 28.550591)
+2025-07-15 12:03:15,578 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:15,678 - GOAT - DEBUG - point1: (41.105216, 28.5413356), target: (41.0996076, 28.550591)
+2025-07-15 12:03:15,679 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:15,693 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:15,779 - GOAT - DEBUG - point1: (41.105216, 28.5413356), target: (41.0996076, 28.550591)
+2025-07-15 12:03:15,779 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:15,880 - GOAT - DEBUG - point1: (41.105216, 28.5413356), target: (41.0996076, 28.550591)
+2025-07-15 12:03:15,880 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:15,980 - GOAT - DEBUG - point1: (41.1051915, 28.5413853), target: (41.0996076, 28.550591)
+2025-07-15 12:03:15,980 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:16,081 - GOAT - DEBUG - point1: (41.1051915, 28.5413853), target: (41.0996076, 28.550591)
+2025-07-15 12:03:16,081 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:16,181 - GOAT - DEBUG - point1: (41.1051644, 28.5414391), target: (41.0996076, 28.550591)
+2025-07-15 12:03:16,182 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:16,282 - GOAT - DEBUG - point1: (41.1051644, 28.5414391), target: (41.0996076, 28.550591)
+2025-07-15 12:03:16,282 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:16,383 - GOAT - DEBUG - point1: (41.1051644, 28.5414391), target: (41.0996076, 28.550591)
+2025-07-15 12:03:16,383 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:16,483 - GOAT - DEBUG - point1: (41.1051389, 28.5414888), target: (41.0996076, 28.550591)
+2025-07-15 12:03:16,484 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:16,584 - GOAT - DEBUG - point1: (41.1051389, 28.5414888), target: (41.0996076, 28.550591)
+2025-07-15 12:03:16,584 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:16,684 - GOAT - DEBUG - point1: (41.1051107, 28.5415426), target: (41.0996076, 28.550591)
+2025-07-15 12:03:16,685 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:16,694 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:16,785 - GOAT - DEBUG - point1: (41.1051107, 28.5415426), target: (41.0996076, 28.550591)
+2025-07-15 12:03:16,785 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:16,886 - GOAT - DEBUG - point1: (41.1051107, 28.5415426), target: (41.0996076, 28.550591)
+2025-07-15 12:03:16,886 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:16,986 - GOAT - DEBUG - point1: (41.1050843, 28.5415922), target: (41.0996076, 28.550591)
+2025-07-15 12:03:16,987 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:17,087 - GOAT - DEBUG - point1: (41.1050843, 28.5415922), target: (41.0996076, 28.550591)
+2025-07-15 12:03:17,087 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:17,188 - GOAT - DEBUG - point1: (41.1050553, 28.5416457), target: (41.0996076, 28.550591)
+2025-07-15 12:03:17,188 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:17,288 - GOAT - DEBUG - point1: (41.1050553, 28.5416457), target: (41.0996076, 28.550591)
+2025-07-15 12:03:17,289 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:17,389 - GOAT - DEBUG - point1: (41.1050281, 28.5416949), target: (41.0996076, 28.550591)
+2025-07-15 12:03:17,389 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:17,490 - GOAT - DEBUG - point1: (41.1050281, 28.5416949), target: (41.0996076, 28.550591)
+2025-07-15 12:03:17,490 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:17,590 - GOAT - DEBUG - point1: (41.1050281, 28.5416949), target: (41.0996076, 28.550591)
+2025-07-15 12:03:17,591 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:17,691 - GOAT - DEBUG - point1: (41.1049985, 28.5417478), target: (41.0996076, 28.550591)
+2025-07-15 12:03:17,691 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:17,694 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:17,792 - GOAT - DEBUG - point1: (41.1049985, 28.5417478), target: (41.0996076, 28.550591)
+2025-07-15 12:03:17,792 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:17,892 - GOAT - DEBUG - point1: (41.104971, 28.5417964), target: (41.0996076, 28.550591)
+2025-07-15 12:03:17,893 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:17,993 - GOAT - DEBUG - point1: (41.104971, 28.5417964), target: (41.0996076, 28.550591)
+2025-07-15 12:03:17,993 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:18,094 - GOAT - DEBUG - point1: (41.104971, 28.5417964), target: (41.0996076, 28.550591)
+2025-07-15 12:03:18,094 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:18,194 - GOAT - DEBUG - point1: (41.104941, 28.5418489), target: (41.0996076, 28.550591)
+2025-07-15 12:03:18,195 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:18,295 - GOAT - DEBUG - point1: (41.104941, 28.5418489), target: (41.0996076, 28.550591)
+2025-07-15 12:03:18,295 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:18,396 - GOAT - DEBUG - point1: (41.104941, 28.5418489), target: (41.0996076, 28.550591)
+2025-07-15 12:03:18,396 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:18,496 - GOAT - DEBUG - point1: (41.1049132, 28.5418971), target: (41.0996076, 28.550591)
+2025-07-15 12:03:18,497 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:18,597 - GOAT - DEBUG - point1: (41.1049132, 28.5418971), target: (41.0996076, 28.550591)
+2025-07-15 12:03:18,597 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:18,695 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:18,697 - GOAT - DEBUG - point1: (41.104883, 28.5419494), target: (41.0996076, 28.550591)
+2025-07-15 12:03:18,698 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:18,798 - GOAT - DEBUG - point1: (41.104883, 28.5419494), target: (41.0996076, 28.550591)
+2025-07-15 12:03:18,798 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:18,898 - GOAT - DEBUG - point1: (41.104883, 28.5419494), target: (41.0996076, 28.550591)
+2025-07-15 12:03:18,899 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:18,999 - GOAT - DEBUG - point1: (41.1048549, 28.5419976), target: (41.0996076, 28.550591)
+2025-07-15 12:03:18,999 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:19,099 - GOAT - DEBUG - point1: (41.1048549, 28.5419976), target: (41.0996076, 28.550591)
+2025-07-15 12:03:19,100 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:19,200 - GOAT - DEBUG - point1: (41.1048243, 28.5420499), target: (41.0996076, 28.550591)
+2025-07-15 12:03:19,200 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:19,301 - GOAT - DEBUG - point1: (41.1048243, 28.5420499), target: (41.0996076, 28.550591)
+2025-07-15 12:03:19,301 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:19,401 - GOAT - DEBUG - point1: (41.1048243, 28.5420499), target: (41.0996076, 28.550591)
+2025-07-15 12:03:19,402 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:19,502 - GOAT - DEBUG - point1: (41.1047959, 28.5420983), target: (41.0996076, 28.550591)
+2025-07-15 12:03:19,502 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:19,603 - GOAT - DEBUG - point1: (41.1047959, 28.5420983), target: (41.0996076, 28.550591)
+2025-07-15 12:03:19,603 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:19,696 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-15 12:03:19,703 - GOAT - DEBUG - point1: (41.1047651, 28.5421506), target: (41.0996076, 28.550591)
+2025-07-15 12:03:19,703 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:19,804 - GOAT - DEBUG - point1: (41.1047651, 28.5421506), target: (41.0996076, 28.550591)
+2025-07-15 12:03:19,804 - GOAT - DEBUG - Waiting to reach approach destination...
+2025-07-15 12:03:19,831 - GOAT - DEBUG - Connection closed.

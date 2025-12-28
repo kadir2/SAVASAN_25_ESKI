@@ -1,0 +1,84 @@
+2025-07-13 14:07:48,709 - GOAT - DEBUG - Mission state is NEUTRAL.
+2025-07-13 14:07:48,710 - GOAT - DEBUG - target_lat: 41.102904, target_lon: 28.5456026
+2025-07-13 14:07:48,710 - GOAT - DEBUG - start_altitude: 90target_altitude: 30stable_altitude: 100
+2025-07-13 14:07:48,710 - GOAT - DEBUG - diving_distance: -193.00562284586027
+2025-07-13 14:07:49,612 - GOAT - DEBUG - Connected to the aircraft.
+2025-07-13 14:07:54,022 - GOAT - DEBUG - Received start command from Redis.
+2025-07-13 14:07:54,022 - GOAT - DEBUG - Loiter radius set to 20 for kamikaze mission.
+2025-07-13 14:07:54,123 - GOAT - DEBUG - going to approach destination
+2025-07-13 14:07:55,023 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:07:56,024 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:07:57,025 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:07:58,026 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:07:59,027 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:00,028 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:01,028 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:02,030 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:03,031 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:04,031 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:05,031 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:06,032 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:07,033 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:08,034 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:09,035 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:10,036 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:11,036 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:12,037 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:13,038 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:14,039 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:15,040 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:16,041 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:17,041 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:18,042 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:19,043 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:20,043 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:21,044 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:22,045 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:23,046 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:24,048 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:25,048 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:25,858 - GOAT - DEBUG - Reached approach destination.
+2025-07-13 14:08:25,859 - GOAT - DEBUG - going to target destination
+2025-07-13 14:08:26,049 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:27,050 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:28,051 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:29,051 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:30,052 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:31,053 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:32,053 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:33,054 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:34,055 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:35,056 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:36,057 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:37,058 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:38,059 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:39,060 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:40,061 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:41,062 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:42,062 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:43,063 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:44,063 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:45,064 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:46,064 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:47,065 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:48,066 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:49,068 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:50,068 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:51,069 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:52,069 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:53,070 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:54,071 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:55,072 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:56,073 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:57,073 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:58,075 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:08:59,075 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:09:00,076 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:09:01,076 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:09:02,078 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:09:03,078 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:09:04,079 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:09:05,079 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:09:06,081 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:09:07,082 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:09:07,673 - GOAT - DEBUG - Connection closed.

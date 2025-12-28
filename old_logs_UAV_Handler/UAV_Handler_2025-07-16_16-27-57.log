@@ -1,0 +1,8 @@
+2025-07-16 16:26:41,868 - UAV_Handler - INFO - Yeni video dosyası oluşturuluyor: havadaki_görüntüler/output_1.mp4
+2025-07-16 16:26:41,878 - UAV_Handler - INFO - Video kaydı başlatıldı.
+2025-07-16 16:26:49,120 - UAV_Handler - INFO - Video kaydı durduruldu ve havadaki_görüntüler/output_1.mp4 dosyasına kaydedildi.
+2025-07-16 16:26:49,321 - UAV_Handler - INFO - Yeni video dosyası oluşturuluyor: havadaki_görüntüler/output_2.mp4
+2025-07-16 16:26:49,322 - UAV_Handler - INFO - Video kaydı başlatıldı.
+2025-07-16 16:26:52,959 - UAV_Handler - INFO - Video kaydı durduruldu ve havadaki_görüntüler/output_2.mp4 dosyasına kaydedildi.
+2025-07-16 16:26:53,161 - UAV_Handler - INFO - Yeni video dosyası oluşturuluyor: havadaki_görüntüler/output_3.mp4
+2025-07-16 16:26:53,167 - UAV_Handler - INFO - Video kaydı başlatıldı.

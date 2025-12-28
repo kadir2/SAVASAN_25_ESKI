@@ -1,0 +1,15 @@
+{
+    "sunucusaati": {
+        "gun": 19,
+        "saat": 15,
+        "dakika": 51,
+        "saniye": 43,
+        "milisaniye": 775
+    },
+    "hss_koordinat_bilgileri": [
+        {"id": 0, "hssEnlem": 41.10758, "hssBoylam": 28.54625, "hssYaricap": 50},
+        {"id": 1, "hssEnlem": 41.107534, "hssBoylam": 28.554835, "hssYaricap": 40},
+        {"id": 2, "hssEnlem": 41.10461, "hssBoylam": 28.55171, "hssYaricap": 75},
+        {"id": 3, "hssEnlem": 41.109865, "hssBoylam": 28.550058, "hssYaricap": 150}
+    ]
+}

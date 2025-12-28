@@ -1,0 +1,6 @@
+2025-07-16 16:44:16,948 - UAV_Handler - INFO - Yeni video dosyası oluşturuluyor: havadaki_görüntüler/output_4.mp4
+2025-07-16 16:44:16,951 - UAV_Handler - INFO - Video kaydı başlatıldı.
+2025-07-16 16:44:20,491 - UAV_Handler - DEBUG - 
+Program sonlandırılıyor... Kayıt durduruluyor.
+2025-07-16 16:44:20,491 - UAV_Handler - DEBUG - Çıkış yapıldı.
+2025-07-16 16:44:20,522 - UAV_Handler - INFO - Video kaydı durduruldu ve havadaki_görüntüler/output_4.mp4 dosyasına kaydedildi.

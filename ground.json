@@ -1,0 +1,20 @@
+{
+    "credentials": {
+        "username": "takimkadi",
+        "password": "takimsifresi",
+        "team_number": 99
+    },
+    "network": {
+        "vehicle": "127.0.0.1:14551",
+        "base_url": "http://10.42.0.10:5005",
+        "ucak_ip": "10.42.0.1",
+        "ucak_port_server": 4001,
+        "interface_port_server": 1234,
+        "yer_ip": "10.42.0.41",
+        "state_paket_port": 6001,
+        "state_interface_port": 1313,
+        "yer_goruntu_port": 7001,
+        "server_frame_port": 11003
+
+    }
+  }

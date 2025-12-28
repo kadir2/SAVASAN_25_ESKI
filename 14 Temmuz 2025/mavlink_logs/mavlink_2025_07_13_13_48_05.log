@@ -1,0 +1,1469 @@
+2025-07-13 13:48:05,731 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032226, Longitude: 28.5452883, Altitude: 90.005
+2025-07-13 13:48:05,731 - mavlinkHandler - INFO - Got Heading: 57
+2025-07-13 13:48:05,742 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032226, Longitude: 28.5452883, Altitude: 90.005
+2025-07-13 13:48:05,742 - mavlinkHandler - INFO - Got Heading: 57
+2025-07-13 13:48:05,753 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032226, Longitude: 28.5452883, Altitude: 90.005
+2025-07-13 13:48:05,753 - mavlinkHandler - INFO - Got Heading: 57
+2025-07-13 13:48:05,763 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032226, Longitude: 28.5452883, Altitude: 90.005
+2025-07-13 13:48:05,764 - mavlinkHandler - INFO - Got Heading: 57
+2025-07-13 13:48:05,774 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032226, Longitude: 28.5452883, Altitude: 90.005
+2025-07-13 13:48:05,775 - mavlinkHandler - INFO - Got Heading: 57
+2025-07-13 13:48:05,785 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032226, Longitude: 28.5452883, Altitude: 90.005
+2025-07-13 13:48:05,785 - mavlinkHandler - INFO - Got Heading: 57
+2025-07-13 13:48:05,796 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032226, Longitude: 28.5452883, Altitude: 90.005
+2025-07-13 13:48:05,796 - mavlinkHandler - INFO - Got Heading: 57
+2025-07-13 13:48:05,806 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032226, Longitude: 28.5452883, Altitude: 90.005
+2025-07-13 13:48:05,806 - mavlinkHandler - INFO - Got Heading: 57
+2025-07-13 13:48:05,817 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032315, Longitude: 28.5453108, Altitude: 90.002
+2025-07-13 13:48:05,817 - mavlinkHandler - INFO - Got Heading: 60
+2025-07-13 13:48:05,828 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032315, Longitude: 28.5453108, Altitude: 90.002
+2025-07-13 13:48:05,828 - mavlinkHandler - INFO - Got Heading: 60
+2025-07-13 13:48:05,838 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032315, Longitude: 28.5453108, Altitude: 90.002
+2025-07-13 13:48:05,838 - mavlinkHandler - INFO - Got Heading: 60
+2025-07-13 13:48:05,849 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032315, Longitude: 28.5453108, Altitude: 90.002
+2025-07-13 13:48:05,849 - mavlinkHandler - INFO - Got Heading: 60
+2025-07-13 13:48:05,859 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032315, Longitude: 28.5453108, Altitude: 90.002
+2025-07-13 13:48:05,860 - mavlinkHandler - INFO - Got Heading: 60
+2025-07-13 13:48:05,870 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032315, Longitude: 28.5453108, Altitude: 90.002
+2025-07-13 13:48:05,870 - mavlinkHandler - INFO - Got Heading: 60
+2025-07-13 13:48:05,881 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032315, Longitude: 28.5453108, Altitude: 90.002
+2025-07-13 13:48:05,881 - mavlinkHandler - INFO - Got Heading: 60
+2025-07-13 13:48:05,891 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032315, Longitude: 28.5453108, Altitude: 90.002
+2025-07-13 13:48:05,891 - mavlinkHandler - INFO - Got Heading: 60
+2025-07-13 13:48:05,902 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032315, Longitude: 28.5453108, Altitude: 90.002
+2025-07-13 13:48:05,902 - mavlinkHandler - INFO - Got Heading: 60
+2025-07-13 13:48:05,912 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032315, Longitude: 28.5453108, Altitude: 90.002
+2025-07-13 13:48:05,913 - mavlinkHandler - INFO - Got Heading: 60
+2025-07-13 13:48:05,923 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032396, Longitude: 28.5453339, Altitude: 90.0
+2025-07-13 13:48:05,923 - mavlinkHandler - INFO - Got Heading: 63
+2025-07-13 13:48:05,934 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032396, Longitude: 28.5453339, Altitude: 90.0
+2025-07-13 13:48:05,934 - mavlinkHandler - INFO - Got Heading: 63
+2025-07-13 13:48:05,945 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032396, Longitude: 28.5453339, Altitude: 90.0
+2025-07-13 13:48:05,945 - mavlinkHandler - INFO - Got Heading: 63
+2025-07-13 13:48:05,955 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032396, Longitude: 28.5453339, Altitude: 90.0
+2025-07-13 13:48:05,955 - mavlinkHandler - INFO - Got Heading: 63
+2025-07-13 13:48:05,966 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032396, Longitude: 28.5453339, Altitude: 90.0
+2025-07-13 13:48:05,966 - mavlinkHandler - INFO - Got Heading: 63
+2025-07-13 13:48:05,976 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032396, Longitude: 28.5453339, Altitude: 90.0
+2025-07-13 13:48:05,976 - mavlinkHandler - INFO - Got Heading: 63
+2025-07-13 13:48:05,987 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032396, Longitude: 28.5453339, Altitude: 90.0
+2025-07-13 13:48:05,987 - mavlinkHandler - INFO - Got Heading: 63
+2025-07-13 13:48:05,997 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032396, Longitude: 28.5453339, Altitude: 90.0
+2025-07-13 13:48:05,998 - mavlinkHandler - INFO - Got Heading: 63
+2025-07-13 13:48:06,008 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032396, Longitude: 28.5453339, Altitude: 90.0
+2025-07-13 13:48:06,008 - mavlinkHandler - INFO - Got Heading: 63
+2025-07-13 13:48:06,018 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032396, Longitude: 28.5453339, Altitude: 90.0
+2025-07-13 13:48:06,019 - mavlinkHandler - INFO - Got Heading: 63
+2025-07-13 13:48:06,023 - mavlinkHandler - INFO - Got Mode: GUIDED
+2025-07-13 13:48:06,029 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032469, Longitude: 28.5453573, Altitude: 89.999
+2025-07-13 13:48:06,029 - mavlinkHandler - INFO - Got Heading: 65
+2025-07-13 13:48:06,040 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032469, Longitude: 28.5453573, Altitude: 89.999
+2025-07-13 13:48:06,040 - mavlinkHandler - INFO - Got Heading: 65
+2025-07-13 13:48:06,050 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032469, Longitude: 28.5453573, Altitude: 89.999
+2025-07-13 13:48:06,051 - mavlinkHandler - INFO - Got Heading: 65
+2025-07-13 13:48:06,061 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032469, Longitude: 28.5453573, Altitude: 89.999
+2025-07-13 13:48:06,061 - mavlinkHandler - INFO - Got Heading: 65
+2025-07-13 13:48:06,072 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032469, Longitude: 28.5453573, Altitude: 89.999
+2025-07-13 13:48:06,072 - mavlinkHandler - INFO - Got Heading: 65
+2025-07-13 13:48:06,083 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032469, Longitude: 28.5453573, Altitude: 89.999
+2025-07-13 13:48:06,083 - mavlinkHandler - INFO - Got Heading: 65
+2025-07-13 13:48:06,093 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032469, Longitude: 28.5453573, Altitude: 89.999
+2025-07-13 13:48:06,093 - mavlinkHandler - INFO - Got Heading: 65
+2025-07-13 13:48:06,104 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032469, Longitude: 28.5453573, Altitude: 89.999
+2025-07-13 13:48:06,104 - mavlinkHandler - INFO - Got Heading: 65
+2025-07-13 13:48:06,114 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032469, Longitude: 28.5453573, Altitude: 89.999
+2025-07-13 13:48:06,115 - mavlinkHandler - INFO - Got Heading: 65
+2025-07-13 13:48:06,125 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032469, Longitude: 28.5453573, Altitude: 89.999
+2025-07-13 13:48:06,125 - mavlinkHandler - INFO - Got Heading: 65
+2025-07-13 13:48:06,136 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032533, Longitude: 28.5453813, Altitude: 89.998
+2025-07-13 13:48:06,136 - mavlinkHandler - INFO - Got Heading: 68
+2025-07-13 13:48:06,147 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032533, Longitude: 28.5453813, Altitude: 89.998
+2025-07-13 13:48:06,147 - mavlinkHandler - INFO - Got Heading: 68
+2025-07-13 13:48:06,157 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032533, Longitude: 28.5453813, Altitude: 89.998
+2025-07-13 13:48:06,157 - mavlinkHandler - INFO - Got Heading: 68
+2025-07-13 13:48:06,168 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032533, Longitude: 28.5453813, Altitude: 89.998
+2025-07-13 13:48:06,168 - mavlinkHandler - INFO - Got Heading: 68
+2025-07-13 13:48:06,179 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032533, Longitude: 28.5453813, Altitude: 89.998
+2025-07-13 13:48:06,179 - mavlinkHandler - INFO - Got Heading: 68
+2025-07-13 13:48:06,189 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032533, Longitude: 28.5453813, Altitude: 89.998
+2025-07-13 13:48:06,189 - mavlinkHandler - INFO - Got Heading: 68
+2025-07-13 13:48:06,200 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032533, Longitude: 28.5453813, Altitude: 89.998
+2025-07-13 13:48:06,200 - mavlinkHandler - INFO - Got Heading: 68
+2025-07-13 13:48:06,210 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032533, Longitude: 28.5453813, Altitude: 89.998
+2025-07-13 13:48:06,210 - mavlinkHandler - INFO - Got Heading: 68
+2025-07-13 13:48:06,221 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032533, Longitude: 28.5453813, Altitude: 89.998
+2025-07-13 13:48:06,221 - mavlinkHandler - INFO - Got Heading: 68
+2025-07-13 13:48:06,231 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032589, Longitude: 28.5454056, Altitude: 89.998
+2025-07-13 13:48:06,231 - mavlinkHandler - INFO - Got Heading: 70
+2025-07-13 13:48:06,242 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032589, Longitude: 28.5454056, Altitude: 89.998
+2025-07-13 13:48:06,242 - mavlinkHandler - INFO - Got Heading: 70
+2025-07-13 13:48:06,253 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032589, Longitude: 28.5454056, Altitude: 89.998
+2025-07-13 13:48:06,253 - mavlinkHandler - INFO - Got Heading: 70
+2025-07-13 13:48:06,263 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032589, Longitude: 28.5454056, Altitude: 89.998
+2025-07-13 13:48:06,263 - mavlinkHandler - INFO - Got Heading: 70
+2025-07-13 13:48:06,274 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032589, Longitude: 28.5454056, Altitude: 89.998
+2025-07-13 13:48:06,274 - mavlinkHandler - INFO - Got Heading: 70
+2025-07-13 13:48:06,285 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032589, Longitude: 28.5454056, Altitude: 89.998
+2025-07-13 13:48:06,285 - mavlinkHandler - INFO - Got Heading: 70
+2025-07-13 13:48:06,295 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032589, Longitude: 28.5454056, Altitude: 89.998
+2025-07-13 13:48:06,296 - mavlinkHandler - INFO - Got Heading: 70
+2025-07-13 13:48:06,306 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032589, Longitude: 28.5454056, Altitude: 89.998
+2025-07-13 13:48:06,306 - mavlinkHandler - INFO - Got Heading: 70
+2025-07-13 13:48:06,316 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032637, Longitude: 28.5454302, Altitude: 89.998
+2025-07-13 13:48:06,317 - mavlinkHandler - INFO - Got Heading: 73
+2025-07-13 13:48:06,327 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032637, Longitude: 28.5454302, Altitude: 89.998
+2025-07-13 13:48:06,327 - mavlinkHandler - INFO - Got Heading: 73
+2025-07-13 13:48:06,337 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032637, Longitude: 28.5454302, Altitude: 89.998
+2025-07-13 13:48:06,338 - mavlinkHandler - INFO - Got Heading: 73
+2025-07-13 13:48:06,348 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032637, Longitude: 28.5454302, Altitude: 89.998
+2025-07-13 13:48:06,348 - mavlinkHandler - INFO - Got Heading: 73
+2025-07-13 13:48:06,359 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032637, Longitude: 28.5454302, Altitude: 89.998
+2025-07-13 13:48:06,359 - mavlinkHandler - INFO - Got Heading: 73
+2025-07-13 13:48:06,370 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032637, Longitude: 28.5454302, Altitude: 89.998
+2025-07-13 13:48:06,370 - mavlinkHandler - INFO - Got Heading: 73
+2025-07-13 13:48:06,380 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032676, Longitude: 28.545455, Altitude: 90.001
+2025-07-13 13:48:06,380 - mavlinkHandler - INFO - Got Heading: 76
+2025-07-13 13:48:06,391 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032689, Longitude: 28.5454651, Altitude: 90.002
+2025-07-13 13:48:06,391 - mavlinkHandler - INFO - Got Heading: 77
+2025-07-13 13:48:06,402 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032695, Longitude: 28.5454701, Altitude: 90.002
+2025-07-13 13:48:06,402 - mavlinkHandler - INFO - Got Heading: 77
+2025-07-13 13:48:06,412 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032695, Longitude: 28.5454701, Altitude: 90.002
+2025-07-13 13:48:06,412 - mavlinkHandler - INFO - Got Heading: 77
+2025-07-13 13:48:06,423 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032701, Longitude: 28.5454751, Altitude: 90.002
+2025-07-13 13:48:06,423 - mavlinkHandler - INFO - Got Heading: 78
+2025-07-13 13:48:06,433 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032701, Longitude: 28.5454751, Altitude: 90.002
+2025-07-13 13:48:06,433 - mavlinkHandler - INFO - Got Heading: 78
+2025-07-13 13:48:06,444 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032706, Longitude: 28.5454801, Altitude: 90.003
+2025-07-13 13:48:06,444 - mavlinkHandler - INFO - Got Heading: 78
+2025-07-13 13:48:06,454 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032706, Longitude: 28.5454801, Altitude: 90.003
+2025-07-13 13:48:06,454 - mavlinkHandler - INFO - Got Heading: 78
+2025-07-13 13:48:06,465 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032706, Longitude: 28.5454801, Altitude: 90.003
+2025-07-13 13:48:06,465 - mavlinkHandler - INFO - Got Heading: 78
+2025-07-13 13:48:06,475 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032706, Longitude: 28.5454801, Altitude: 90.003
+2025-07-13 13:48:06,475 - mavlinkHandler - INFO - Got Heading: 78
+2025-07-13 13:48:06,485 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032716, Longitude: 28.5454902, Altitude: 90.003
+2025-07-13 13:48:06,486 - mavlinkHandler - INFO - Got Heading: 79
+2025-07-13 13:48:06,496 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032716, Longitude: 28.5454902, Altitude: 90.003
+2025-07-13 13:48:06,496 - mavlinkHandler - INFO - Got Heading: 79
+2025-07-13 13:48:06,506 - mavlinkHandler - INFO - Got Location: Latitude: 41.103272, Longitude: 28.5454953, Altitude: 90.004
+2025-07-13 13:48:06,507 - mavlinkHandler - INFO - Got Heading: 80
+2025-07-13 13:48:06,517 - mavlinkHandler - INFO - Got Location: Latitude: 41.103272, Longitude: 28.5454953, Altitude: 90.004
+2025-07-13 13:48:06,517 - mavlinkHandler - INFO - Got Heading: 80
+2025-07-13 13:48:06,527 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032724, Longitude: 28.5455003, Altitude: 90.004
+2025-07-13 13:48:06,528 - mavlinkHandler - INFO - Got Heading: 80
+2025-07-13 13:48:06,538 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032724, Longitude: 28.5455003, Altitude: 90.004
+2025-07-13 13:48:06,538 - mavlinkHandler - INFO - Got Heading: 80
+2025-07-13 13:48:06,549 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032728, Longitude: 28.5455054, Altitude: 90.004
+2025-07-13 13:48:06,549 - mavlinkHandler - INFO - Got Heading: 81
+2025-07-13 13:48:06,559 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032728, Longitude: 28.5455054, Altitude: 90.004
+2025-07-13 13:48:06,559 - mavlinkHandler - INFO - Got Heading: 81
+2025-07-13 13:48:06,569 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032728, Longitude: 28.5455054, Altitude: 90.004
+2025-07-13 13:48:06,569 - mavlinkHandler - INFO - Got Heading: 81
+2025-07-13 13:48:06,580 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032728, Longitude: 28.5455054, Altitude: 90.004
+2025-07-13 13:48:06,580 - mavlinkHandler - INFO - Got Heading: 81
+2025-07-13 13:48:06,590 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032734, Longitude: 28.5455155, Altitude: 90.006
+2025-07-13 13:48:06,591 - mavlinkHandler - INFO - Got Heading: 82
+2025-07-13 13:48:06,601 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032737, Longitude: 28.5455206, Altitude: 90.006
+2025-07-13 13:48:06,601 - mavlinkHandler - INFO - Got Heading: 83
+2025-07-13 13:48:06,611 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032737, Longitude: 28.5455206, Altitude: 90.006
+2025-07-13 13:48:06,611 - mavlinkHandler - INFO - Got Heading: 83
+2025-07-13 13:48:06,622 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032739, Longitude: 28.5455257, Altitude: 90.007
+2025-07-13 13:48:06,622 - mavlinkHandler - INFO - Got Heading: 83
+2025-07-13 13:48:06,632 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032739, Longitude: 28.5455257, Altitude: 90.007
+2025-07-13 13:48:06,632 - mavlinkHandler - INFO - Got Heading: 83
+2025-07-13 13:48:06,643 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032741, Longitude: 28.5455307, Altitude: 90.007
+2025-07-13 13:48:06,643 - mavlinkHandler - INFO - Got Heading: 84
+2025-07-13 13:48:06,653 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032741, Longitude: 28.5455307, Altitude: 90.007
+2025-07-13 13:48:06,653 - mavlinkHandler - INFO - Got Heading: 84
+2025-07-13 13:48:06,664 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032741, Longitude: 28.5455307, Altitude: 90.007
+2025-07-13 13:48:06,664 - mavlinkHandler - INFO - Got Heading: 84
+2025-07-13 13:48:06,674 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032741, Longitude: 28.5455307, Altitude: 90.007
+2025-07-13 13:48:06,674 - mavlinkHandler - INFO - Got Heading: 84
+2025-07-13 13:48:06,685 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032743, Longitude: 28.5455409, Altitude: 90.007
+2025-07-13 13:48:06,685 - mavlinkHandler - INFO - Got Heading: 85
+2025-07-13 13:48:06,695 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032743, Longitude: 28.5455409, Altitude: 90.007
+2025-07-13 13:48:06,696 - mavlinkHandler - INFO - Got Heading: 85
+2025-07-13 13:48:06,706 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032744, Longitude: 28.545546, Altitude: 90.007
+2025-07-13 13:48:06,706 - mavlinkHandler - INFO - Got Heading: 85
+2025-07-13 13:48:06,716 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032744, Longitude: 28.545546, Altitude: 90.007
+2025-07-13 13:48:06,717 - mavlinkHandler - INFO - Got Heading: 85
+2025-07-13 13:48:06,727 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032744, Longitude: 28.5455511, Altitude: 90.008
+2025-07-13 13:48:06,727 - mavlinkHandler - INFO - Got Heading: 86
+2025-07-13 13:48:06,738 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032744, Longitude: 28.5455511, Altitude: 90.008
+2025-07-13 13:48:06,738 - mavlinkHandler - INFO - Got Heading: 86
+2025-07-13 13:48:06,748 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032745, Longitude: 28.5455561, Altitude: 90.008
+2025-07-13 13:48:06,748 - mavlinkHandler - INFO - Got Heading: 86
+2025-07-13 13:48:06,759 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032745, Longitude: 28.5455561, Altitude: 90.008
+2025-07-13 13:48:06,759 - mavlinkHandler - INFO - Got Heading: 86
+2025-07-13 13:48:06,769 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032745, Longitude: 28.5455561, Altitude: 90.008
+2025-07-13 13:48:06,769 - mavlinkHandler - INFO - Got Heading: 86
+2025-07-13 13:48:06,780 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032745, Longitude: 28.5455561, Altitude: 90.008
+2025-07-13 13:48:06,780 - mavlinkHandler - INFO - Got Heading: 86
+2025-07-13 13:48:06,790 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032744, Longitude: 28.5455663, Altitude: 90.008
+2025-07-13 13:48:06,790 - mavlinkHandler - INFO - Got Heading: 87
+2025-07-13 13:48:06,801 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032744, Longitude: 28.5455663, Altitude: 90.008
+2025-07-13 13:48:06,801 - mavlinkHandler - INFO - Got Heading: 87
+2025-07-13 13:48:06,811 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032743, Longitude: 28.5455714, Altitude: 90.008
+2025-07-13 13:48:06,812 - mavlinkHandler - INFO - Got Heading: 88
+2025-07-13 13:48:06,822 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032741, Longitude: 28.5455765, Altitude: 90.008
+2025-07-13 13:48:06,822 - mavlinkHandler - INFO - Got Heading: 88
+2025-07-13 13:48:06,832 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032741, Longitude: 28.5455765, Altitude: 90.008
+2025-07-13 13:48:06,833 - mavlinkHandler - INFO - Got Heading: 88
+2025-07-13 13:48:06,843 - mavlinkHandler - INFO - Got Location: Latitude: 41.103274, Longitude: 28.5455815, Altitude: 90.007
+2025-07-13 13:48:06,843 - mavlinkHandler - INFO - Got Heading: 89
+2025-07-13 13:48:06,854 - mavlinkHandler - INFO - Got Location: Latitude: 41.103274, Longitude: 28.5455815, Altitude: 90.007
+2025-07-13 13:48:06,854 - mavlinkHandler - INFO - Got Heading: 89
+2025-07-13 13:48:06,864 - mavlinkHandler - INFO - Got Location: Latitude: 41.103274, Longitude: 28.5455815, Altitude: 90.007
+2025-07-13 13:48:06,864 - mavlinkHandler - INFO - Got Heading: 89
+2025-07-13 13:48:06,875 - mavlinkHandler - INFO - Got Location: Latitude: 41.103274, Longitude: 28.5455815, Altitude: 90.007
+2025-07-13 13:48:06,875 - mavlinkHandler - INFO - Got Heading: 89
+2025-07-13 13:48:06,885 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032735, Longitude: 28.5455917, Altitude: 90.007
+2025-07-13 13:48:06,886 - mavlinkHandler - INFO - Got Heading: 90
+2025-07-13 13:48:06,896 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032735, Longitude: 28.5455917, Altitude: 90.007
+2025-07-13 13:48:06,896 - mavlinkHandler - INFO - Got Heading: 90
+2025-07-13 13:48:06,907 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032733, Longitude: 28.5455968, Altitude: 90.007
+2025-07-13 13:48:06,907 - mavlinkHandler - INFO - Got Heading: 90
+2025-07-13 13:48:06,917 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032733, Longitude: 28.5455968, Altitude: 90.007
+2025-07-13 13:48:06,917 - mavlinkHandler - INFO - Got Heading: 90
+2025-07-13 13:48:06,928 - mavlinkHandler - INFO - Got Location: Latitude: 41.103273, Longitude: 28.5456018, Altitude: 90.007
+2025-07-13 13:48:06,928 - mavlinkHandler - INFO - Got Heading: 91
+2025-07-13 13:48:06,938 - mavlinkHandler - INFO - Got Location: Latitude: 41.103273, Longitude: 28.5456018, Altitude: 90.007
+2025-07-13 13:48:06,938 - mavlinkHandler - INFO - Got Heading: 91
+2025-07-13 13:48:06,949 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032726, Longitude: 28.5456069, Altitude: 90.006
+2025-07-13 13:48:06,949 - mavlinkHandler - INFO - Got Heading: 92
+2025-07-13 13:48:06,959 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032726, Longitude: 28.5456069, Altitude: 90.006
+2025-07-13 13:48:06,959 - mavlinkHandler - INFO - Got Heading: 92
+2025-07-13 13:48:06,970 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032726, Longitude: 28.5456069, Altitude: 90.006
+2025-07-13 13:48:06,970 - mavlinkHandler - INFO - Got Heading: 92
+2025-07-13 13:48:06,980 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032726, Longitude: 28.5456069, Altitude: 90.006
+2025-07-13 13:48:06,980 - mavlinkHandler - INFO - Got Heading: 92
+2025-07-13 13:48:06,991 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032718, Longitude: 28.545617, Altitude: 90.005
+2025-07-13 13:48:06,991 - mavlinkHandler - INFO - Got Heading: 93
+2025-07-13 13:48:07,001 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032718, Longitude: 28.545617, Altitude: 90.005
+2025-07-13 13:48:07,001 - mavlinkHandler - INFO - Got Heading: 93
+2025-07-13 13:48:07,012 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032714, Longitude: 28.545622, Altitude: 90.005
+2025-07-13 13:48:07,012 - mavlinkHandler - INFO - Got Heading: 93
+2025-07-13 13:48:07,022 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,023 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,033 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,033 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,043 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,043 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,054 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,054 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,064 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,064 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,075 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,075 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,085 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,085 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,096 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,096 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,106 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,106 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,116 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,117 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,127 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,127 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,137 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,137 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,148 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,148 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,158 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,158 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,169 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,169 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,179 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,179 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,189 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,189 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,200 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,200 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,210 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,210 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,221 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,221 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,231 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,231 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,241 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,242 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,252 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,252 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,262 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,262 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,273 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,273 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,283 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,283 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,294 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032709, Longitude: 28.5456271, Altitude: 90.004
+2025-07-13 13:48:07,294 - mavlinkHandler - INFO - Got Heading: 94
+2025-07-13 13:48:07,304 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,305 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,315 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,315 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,326 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,326 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,336 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,336 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,347 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,347 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,357 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,357 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,368 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,368 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,378 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,378 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,389 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,389 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,399 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,399 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,410 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,410 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,420 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,420 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,431 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,431 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,441 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,441 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,452 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,452 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,462 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,462 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,473 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,473 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,483 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,484 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,494 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,494 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,505 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,505 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,515 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,515 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,526 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,526 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,536 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032606, Longitude: 28.5456968, Altitude: 90.002
+2025-07-13 13:48:07,537 - mavlinkHandler - INFO - Got Heading: 101
+2025-07-13 13:48:07,547 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,547 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,558 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,558 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,568 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,568 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,579 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,579 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,589 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,589 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,600 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,600 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,610 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,610 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,621 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,621 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,631 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,632 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,642 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,642 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,653 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,653 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,663 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,663 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,674 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,674 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,684 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,684 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,695 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,695 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,705 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,705 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,716 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,716 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,726 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,726 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,737 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,737 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,747 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,747 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,758 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,758 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,768 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,768 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,779 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,779 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,789 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,789 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,800 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032464, Longitude: 28.5457548, Altitude: 89.999
+2025-07-13 13:48:07,800 - mavlinkHandler - INFO - Got Heading: 107
+2025-07-13 13:48:07,810 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,811 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,821 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,821 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,832 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,832 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,842 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,842 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,853 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,853 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,863 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,863 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,873 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,874 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,884 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,884 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,895 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,895 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,905 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,906 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,916 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,916 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,927 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,927 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,938 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,938 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,948 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,948 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,959 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,959 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,969 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,969 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,980 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,980 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:07,990 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:07,991 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:08,001 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:08,001 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:08,012 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:08,012 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:08,022 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:08,022 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:08,033 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:08,033 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:08,043 - mavlinkHandler - INFO - Got Location: Latitude: 41.1032258, Longitude: 28.5458149, Altitude: 90.002
+2025-07-13 13:48:08,043 - mavlinkHandler - INFO - Got Heading: 114
+2025-07-13 13:48:08,054 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,054 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,064 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,065 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,075 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,075 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,086 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,086 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,096 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,096 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,107 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,107 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,117 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,118 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,128 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,128 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,138 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,139 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,149 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,149 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,160 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,160 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,170 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,170 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,181 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,181 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,191 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,191 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,202 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,202 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,212 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,213 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,223 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,223 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,233 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,234 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,244 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,244 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,255 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,255 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,265 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,265 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,276 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,276 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,286 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,286 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,297 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,297 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,307 - mavlinkHandler - INFO - Got Location: Latitude: 41.103202, Longitude: 28.5458671, Altitude: 90.011
+2025-07-13 13:48:08,307 - mavlinkHandler - INFO - Got Heading: 120
+2025-07-13 13:48:08,318 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,318 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,328 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,329 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,339 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,339 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,350 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,350 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,360 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,360 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,371 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,371 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,381 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,382 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,392 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,392 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,402 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,403 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,413 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,413 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,424 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,424 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,434 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,434 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,445 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,445 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,455 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,455 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,466 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,466 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,476 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,477 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,487 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,487 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,497 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,498 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,508 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,508 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,518 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,519 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,529 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,529 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,539 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,540 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,550 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031716, Longitude: 28.5459194, Altitude: 90.019
+2025-07-13 13:48:08,550 - mavlinkHandler - INFO - Got Heading: 127
+2025-07-13 13:48:08,560 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,561 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,571 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,571 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,581 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,582 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,592 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,592 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,602 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,603 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,613 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,613 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,624 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,624 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,634 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,634 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,644 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,645 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,655 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,655 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,665 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,666 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,676 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,676 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,687 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,687 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,697 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,697 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,708 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,708 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,719 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,719 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,729 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,729 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,740 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,740 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,750 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,750 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,761 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,761 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,771 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,771 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,782 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,782 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,792 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,792 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,803 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031395, Longitude: 28.5459631, Altitude: 90.025
+2025-07-13 13:48:08,803 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,813 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,813 - mavlinkHandler - INFO - Got Heading: 134
+2025-07-13 13:48:08,824 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,824 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,834 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,835 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,845 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,845 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,855 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,855 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,866 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,866 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,876 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,877 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,887 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,887 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,898 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,898 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,908 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,908 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,919 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,919 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,929 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,929 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,940 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,940 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,951 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,951 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,961 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,961 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,972 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,972 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,982 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,982 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:08,993 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:08,993 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:09,003 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:09,003 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:09,014 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:09,014 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:09,024 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:09,025 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:09,035 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:09,035 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:09,046 - mavlinkHandler - INFO - Got Location: Latitude: 41.1031009, Longitude: 28.5460048, Altitude: 90.027
+2025-07-13 13:48:09,046 - mavlinkHandler - INFO - Got Heading: 140
+2025-07-13 13:48:09,056 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,056 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,067 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,067 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,077 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,077 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,088 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,088 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,098 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,099 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,109 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,109 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,120 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,120 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,130 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,130 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,141 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,141 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,152 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,152 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,163 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,163 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,173 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,173 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,184 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,184 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,195 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,195 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,205 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,206 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,216 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,216 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,227 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,227 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,238 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,238 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,248 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,249 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,259 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,259 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,270 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,270 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,280 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,281 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,291 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,291 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,302 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,302 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,312 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,313 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,323 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,323 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,334 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030622, Longitude: 28.5460377, Altitude: 90.028
+2025-07-13 13:48:09,334 - mavlinkHandler - INFO - Got Heading: 147
+2025-07-13 13:48:09,344 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,344 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,355 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,355 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,366 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,366 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,376 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,377 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,387 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,387 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,398 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,398 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,408 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,408 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,419 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,419 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,430 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,430 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,440 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,440 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,451 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,451 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,462 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,462 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,473 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,473 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,483 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,483 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,494 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,494 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,505 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,505 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,515 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,515 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,526 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,526 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,537 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,537 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,548 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,548 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,558 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,558 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,569 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,569 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,580 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,580 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,590 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,590 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,601 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,601 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,612 - mavlinkHandler - INFO - Got Location: Latitude: 41.1030175, Longitude: 28.5460667, Altitude: 90.033
+2025-07-13 13:48:09,612 - mavlinkHandler - INFO - Got Heading: 154
+2025-07-13 13:48:09,623 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,623 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,634 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,634 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,645 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,645 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,656 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,656 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,667 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,667 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,678 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,678 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,689 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,689 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,699 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,700 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,710 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,710 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,722 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,722 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,732 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,733 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,743 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,743 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,754 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,754 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,765 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,765 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,776 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,776 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,787 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,787 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,798 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,798 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,808 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,809 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,819 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,819 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,830 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,830 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,841 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,841 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,851 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,851 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,862 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,862 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,872 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029707, Longitude: 28.5460884, Altitude: 90.039
+2025-07-13 13:48:09,872 - mavlinkHandler - INFO - Got Heading: 160
+2025-07-13 13:48:09,883 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:09,883 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:09,893 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:09,894 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:09,904 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:09,904 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:09,915 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:09,915 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:09,926 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:09,926 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:09,937 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:09,937 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:09,947 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:09,948 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:09,958 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:09,958 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:09,969 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:09,969 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:09,980 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:09,980 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:09,991 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:09,991 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,001 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,001 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,012 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,012 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,023 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,023 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,034 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,034 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,045 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,045 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,055 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,055 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,066 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,066 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,077 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,077 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,087 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,087 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,098 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,098 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,109 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,109 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,119 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,120 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,130 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,130 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,141 - mavlinkHandler - INFO - Got Location: Latitude: 41.1029264, Longitude: 28.5461016, Altitude: 90.055
+2025-07-13 13:48:10,141 - mavlinkHandler - INFO - Got Heading: 167
+2025-07-13 13:48:10,152 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,152 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,163 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,163 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,173 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,174 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,184 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,184 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,195 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,195 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,206 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,206 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,216 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,216 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,227 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,227 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,238 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,238 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,249 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,249 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,260 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,260 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,271 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,271 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,282 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,282 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,292 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,292 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,303 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,303 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,314 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,314 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,324 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,325 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,335 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,335 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,346 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,346 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,356 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,356 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,367 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,367 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,378 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,378 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,388 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,388 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,399 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028775, Longitude: 28.5461087, Altitude: 90.068
+2025-07-13 13:48:10,399 - mavlinkHandler - INFO - Got Heading: 174
+2025-07-13 13:48:10,410 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,410 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,421 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,421 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,432 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,432 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,443 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,443 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,454 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,454 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,464 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,464 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,475 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,475 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,485 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,485 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,496 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,496 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,506 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,507 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,517 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,517 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,528 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,528 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,538 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,539 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,549 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,549 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,560 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,560 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,570 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,570 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,581 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,581 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,592 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,592 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,602 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,602 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,613 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,613 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,624 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,624 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,634 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,635 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,645 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,645 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,656 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,656 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,667 - mavlinkHandler - INFO - Got Location: Latitude: 41.1028323, Longitude: 28.5461083, Altitude: 90.08
+2025-07-13 13:48:10,667 - mavlinkHandler - INFO - Got Heading: 180
+2025-07-13 13:48:10,677 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,678 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,688 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,688 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,699 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,699 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,710 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,710 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,720 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,720 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,731 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,731 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,742 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,742 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,753 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,753 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,763 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,764 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,774 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,774 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,785 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,785 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,796 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,796 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,806 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,807 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,817 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,817 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,828 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,828 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,839 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,839 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,849 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,849 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,860 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,860 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,871 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,871 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,882 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,882 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,893 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,893 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,903 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,903 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,914 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,914 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,925 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027835, Longitude: 28.5461007, Altitude: 90.089
+2025-07-13 13:48:10,925 - mavlinkHandler - INFO - Got Heading: 187
+2025-07-13 13:48:10,936 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:10,936 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:10,946 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:10,947 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:10,957 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:10,957 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:10,967 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:10,968 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:10,978 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:10,978 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:10,989 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:10,989 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:10,999 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:10,999 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,010 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,010 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,021 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,021 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,031 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,032 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,042 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,042 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,053 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,053 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,063 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,063 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,074 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,074 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,084 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,084 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,095 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,095 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,105 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,105 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,116 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,116 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,126 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,126 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,137 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,137 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,147 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,147 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,158 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,158 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,168 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,168 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,179 - mavlinkHandler - INFO - Got Location: Latitude: 41.1027393, Longitude: 28.5460868, Altitude: 90.09
+2025-07-13 13:48:11,179 - mavlinkHandler - INFO - Got Heading: 193
+2025-07-13 13:48:11,189 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,189 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,200 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,200 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,210 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,210 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,220 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,220 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,231 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,231 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,241 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,241 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,252 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,252 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,262 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,262 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,273 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,273 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,283 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,283 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,294 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,294 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,304 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,304 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,315 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,315 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,325 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,325 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,336 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,336 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,346 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,346 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,357 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,357 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,367 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,367 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,378 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,378 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,388 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,388 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,398 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,399 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,409 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,409 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,419 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026929, Longitude: 28.5460647, Altitude: 90.083
+2025-07-13 13:48:11,419 - mavlinkHandler - INFO - Got Heading: 200
+2025-07-13 13:48:11,430 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,430 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,441 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,441 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,451 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,451 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,461 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,461 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,472 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,472 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,482 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,482 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,493 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,493 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,503 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,503 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,514 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,514 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,524 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,524 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,535 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,535 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,545 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,545 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,556 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,556 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,566 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,566 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,576 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,576 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,587 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,587 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,597 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,597 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,608 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,608 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,618 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,618 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,629 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,629 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,639 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,639 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,650 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,650 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,660 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026519, Longitude: 28.5460379, Altitude: 90.077
+2025-07-13 13:48:11,660 - mavlinkHandler - INFO - Got Heading: 206
+2025-07-13 13:48:11,670 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,671 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,681 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,681 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,692 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,692 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,702 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,703 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,713 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,713 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,724 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,724 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,734 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,734 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,745 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,745 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,755 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,755 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,766 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,766 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,776 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,777 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,787 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,787 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,798 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,798 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,808 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,809 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,819 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,819 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,830 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,830 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,840 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,840 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,851 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,851 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,861 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,861 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,872 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,872 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,882 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,883 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,893 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,893 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,903 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,904 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,914 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,914 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,924 - mavlinkHandler - INFO - Got Location: Latitude: 41.1026132, Longitude: 28.5460052, Altitude: 90.065
+2025-07-13 13:48:11,925 - mavlinkHandler - INFO - Got Heading: 212
+2025-07-13 13:48:11,935 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:11,935 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:11,946 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:11,946 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:11,956 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:11,956 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:11,967 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:11,967 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:11,977 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:11,977 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:11,988 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:11,988 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:11,998 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:11,998 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,009 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,009 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,019 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,019 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,030 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,030 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,040 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,041 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,051 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,051 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,062 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,062 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,073 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,073 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,083 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,083 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,094 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,094 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,104 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,104 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,115 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,115 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,125 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,126 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,136 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,136 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,147 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,147 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,157 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,157 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,168 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025744, Longitude: 28.5459634, Altitude: 90.048
+2025-07-13 13:48:12,168 - mavlinkHandler - INFO - Got Heading: 219
+2025-07-13 13:48:12,178 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,178 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,189 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,189 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,199 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,199 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,210 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,210 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,220 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,220 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,231 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,231 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,242 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,242 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,252 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,252 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,263 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,263 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,273 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,273 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,284 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,284 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,294 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,294 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,305 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,305 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,315 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,316 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,326 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,326 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,337 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,337 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,347 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,347 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,358 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,358 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,368 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,368 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,379 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,379 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,389 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,389 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,400 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,400 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,410 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,411 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,421 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,421 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,431 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025421, Longitude: 28.5459194, Altitude: 90.029
+2025-07-13 13:48:12,432 - mavlinkHandler - INFO - Got Heading: 225
+2025-07-13 13:48:12,442 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,442 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,453 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,453 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,463 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,463 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,474 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,474 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,484 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,484 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,495 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,495 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,505 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,505 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,516 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,516 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,526 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,527 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,537 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,537 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,548 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,548 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,558 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,558 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,569 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,569 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,579 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,579 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,590 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,590 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,600 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,600 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,611 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,611 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,621 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,622 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,632 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,632 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,642 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,643 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,653 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,653 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,664 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,664 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,674 - mavlinkHandler - INFO - Got Location: Latitude: 41.1025113, Longitude: 28.5458667, Altitude: 90.011
+2025-07-13 13:48:12,674 - mavlinkHandler - INFO - Got Heading: 232
+2025-07-13 13:48:12,684 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,685 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,695 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,695 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,705 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,705 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,716 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,716 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,726 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,727 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,737 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,737 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,748 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,748 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,758 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,758 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,769 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,769 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,779 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,779 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,790 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,790 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,800 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,801 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,811 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,811 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,821 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,821 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,832 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,832 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,842 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,842 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,853 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,853 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,863 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,863 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,874 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,874 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,884 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,884 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,895 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,895 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,905 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,905 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,916 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,916 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,926 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024874, Longitude: 28.5458141, Altitude: 90.001
+2025-07-13 13:48:12,926 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,937 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:12,937 - mavlinkHandler - INFO - Got Heading: 239
+2025-07-13 13:48:12,947 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:12,947 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:12,958 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:12,958 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:12,968 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:12,968 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:12,979 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:12,979 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:12,989 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:12,989 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,000 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,000 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,010 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,010 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,021 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,021 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,031 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,031 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,042 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,042 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,052 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,052 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,063 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,063 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,073 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,073 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,084 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,084 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,094 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,094 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,105 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,105 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,115 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,115 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,125 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,125 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,136 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,136 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,146 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,146 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,157 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,157 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,167 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024667, Longitude: 28.5457536, Altitude: 89.994
+2025-07-13 13:48:13,167 - mavlinkHandler - INFO - Got Heading: 245
+2025-07-13 13:48:13,178 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,178 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,189 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,189 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,199 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,199 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,210 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,210 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,220 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,220 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,231 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,231 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,241 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,241 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,252 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,252 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,262 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,262 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,273 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,273 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,283 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,283 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,294 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,294 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,304 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,304 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,315 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,315 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,325 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,326 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,336 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,336 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,347 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,347 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,357 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,357 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,368 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,368 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,378 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,378 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,389 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,389 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,399 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,399 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,410 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,410 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,420 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,420 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,431 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024525, Longitude: 28.5456952, Altitude: 89.992
+2025-07-13 13:48:13,431 - mavlinkHandler - INFO - Got Heading: 252
+2025-07-13 13:48:13,441 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024428, Longitude: 28.5456302, Altitude: 89.996
+2025-07-13 13:48:13,441 - mavlinkHandler - INFO - Got Heading: 259
+2025-07-13 13:48:13,452 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024428, Longitude: 28.5456302, Altitude: 89.996
+2025-07-13 13:48:13,452 - mavlinkHandler - INFO - Got Heading: 259
+2025-07-13 13:48:13,462 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024428, Longitude: 28.5456302, Altitude: 89.996
+2025-07-13 13:48:13,462 - mavlinkHandler - INFO - Got Heading: 259
+2025-07-13 13:48:13,473 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024428, Longitude: 28.5456302, Altitude: 89.996
+2025-07-13 13:48:13,473 - mavlinkHandler - INFO - Got Heading: 259
+2025-07-13 13:48:13,483 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024428, Longitude: 28.5456302, Altitude: 89.996
+2025-07-13 13:48:13,483 - mavlinkHandler - INFO - Got Heading: 259
+2025-07-13 13:48:13,493 - mavlinkHandler - INFO - Got Location: Latitude: 41.1024428, Longitude: 28.5456302, Altitude: 89.996
+2025-07-13 13:48:13,493 - mavlinkHandler - INFO - Got Heading: 259

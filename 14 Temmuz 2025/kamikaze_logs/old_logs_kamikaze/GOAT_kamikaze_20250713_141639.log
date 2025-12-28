@@ -1,0 +1,363 @@
+2025-07-13 14:14:41,273 - GOAT - DEBUG - Mission state is NEUTRAL.
+2025-07-13 14:14:41,274 - GOAT - DEBUG - target_lat: 41.102904, target_lon: 28.5456026
+2025-07-13 14:14:41,274 - GOAT - DEBUG - start_altitude: 90target_altitude: 30stable_altitude: 100
+2025-07-13 14:14:41,274 - GOAT - DEBUG - diving_distance: 202.1433096513794
+2025-07-13 14:14:41,876 - GOAT - DEBUG - Connected to the aircraft.
+2025-07-13 14:15:13,920 - GOAT - DEBUG - Received start command from Redis.
+2025-07-13 14:15:13,920 - GOAT - DEBUG - Loiter radius set to 20 for kamikaze mission.
+2025-07-13 14:15:14,020 - GOAT - DEBUG - going to approach destination
+2025-07-13 14:15:14,920 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:15,921 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:16,922 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:17,235 - GOAT - DEBUG - Reached approach destination.
+2025-07-13 14:15:17,235 - GOAT - DEBUG - going to target destination
+2025-07-13 14:15:17,922 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:18,923 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:19,924 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:20,925 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:21,925 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:22,926 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:23,927 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:24,928 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:25,929 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:26,929 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:27,930 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:28,931 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:29,932 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:30,933 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:31,934 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:32,935 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:33,935 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:34,936 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:35,937 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:36,937 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:37,938 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:38,939 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:39,939 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:40,941 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:41,941 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:15:42,541 - GOAT - DEBUG - Reached target destination.
+2025-07-13 14:15:42,541 - GOAT - DEBUG - Target reached, diving in.
+2025-07-13 14:15:42,541 - GOAT - DEBUG - state == MissionState.DIVING_IN
+2025-07-13 14:15:42,942 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:42,943 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:42,943 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:42,943 - GOAT - DEBUG - altitude: 89.959
+2025-07-13 14:15:43,945 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:43,945 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:43,945 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:43,945 - GOAT - DEBUG - altitude: 90.029
+2025-07-13 14:15:44,946 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:44,946 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:44,947 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:44,947 - GOAT - DEBUG - altitude: 89.569
+2025-07-13 14:15:45,948 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:45,948 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:45,949 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:45,949 - GOAT - DEBUG - altitude: 88.31
+2025-07-13 14:15:46,950 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:46,950 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:46,950 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:46,950 - GOAT - DEBUG - altitude: 87.018
+2025-07-13 14:15:47,951 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:47,951 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:47,952 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:47,952 - GOAT - DEBUG - altitude: 85.676
+2025-07-13 14:15:48,953 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:48,953 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:48,954 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:48,954 - GOAT - DEBUG - altitude: 84.392
+2025-07-13 14:15:49,955 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:49,955 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:49,955 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:49,955 - GOAT - DEBUG - altitude: 83.132
+2025-07-13 14:15:50,956 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:50,956 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:50,957 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:50,957 - GOAT - DEBUG - altitude: 81.775
+2025-07-13 14:15:51,958 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:51,958 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:51,958 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:51,958 - GOAT - DEBUG - altitude: 80.05
+2025-07-13 14:15:52,959 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:52,959 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:52,960 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:52,960 - GOAT - DEBUG - altitude: 78.171
+2025-07-13 14:15:53,960 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:53,961 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:53,961 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:53,961 - GOAT - DEBUG - altitude: 76.53
+2025-07-13 14:15:54,962 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:54,962 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:54,963 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:54,963 - GOAT - DEBUG - altitude: 75.073
+2025-07-13 14:15:55,963 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:55,964 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:55,964 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:55,964 - GOAT - DEBUG - altitude: 73.507
+2025-07-13 14:15:56,965 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:56,965 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:56,965 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:56,965 - GOAT - DEBUG - altitude: 71.753
+2025-07-13 14:15:57,967 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:57,967 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:57,967 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:57,967 - GOAT - DEBUG - altitude: 70.017
+2025-07-13 14:15:58,968 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:58,968 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:58,968 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:58,968 - GOAT - DEBUG - altitude: 68.412
+2025-07-13 14:15:59,969 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:15:59,970 - GOAT - DEBUG - Diving in
+2025-07-13 14:15:59,970 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:15:59,970 - GOAT - DEBUG - altitude: 66.869
+2025-07-13 14:16:00,971 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:00,971 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:00,972 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:00,972 - GOAT - DEBUG - altitude: 65.244
+2025-07-13 14:16:01,972 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:01,972 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:01,973 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:01,973 - GOAT - DEBUG - altitude: 63.545
+2025-07-13 14:16:02,973 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:02,973 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:02,974 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:02,974 - GOAT - DEBUG - altitude: 61.893
+2025-07-13 14:16:03,974 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:03,974 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:03,974 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:03,974 - GOAT - DEBUG - altitude: 60.299
+2025-07-13 14:16:04,975 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:04,975 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:04,976 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:04,976 - GOAT - DEBUG - altitude: 58.7
+2025-07-13 14:16:05,977 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:05,977 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:05,977 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:05,978 - GOAT - DEBUG - altitude: 57.044
+2025-07-13 14:16:06,978 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:06,978 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:06,979 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:06,979 - GOAT - DEBUG - altitude: 55.376
+2025-07-13 14:16:07,979 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:07,980 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:07,980 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:07,980 - GOAT - DEBUG - altitude: 53.714
+2025-07-13 14:16:08,980 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:08,980 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:08,981 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:08,981 - GOAT - DEBUG - altitude: 52.092
+2025-07-13 14:16:09,981 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:09,981 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:09,982 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:09,982 - GOAT - DEBUG - altitude: 50.5
+2025-07-13 14:16:10,983 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:10,983 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:10,984 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:10,984 - GOAT - DEBUG - altitude: 48.838
+2025-07-13 14:16:11,984 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:11,984 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:11,985 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:11,985 - GOAT - DEBUG - altitude: 47.198
+2025-07-13 14:16:12,985 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:12,985 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:12,986 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:12,986 - GOAT - DEBUG - altitude: 45.576
+2025-07-13 14:16:13,986 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:13,986 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:13,986 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:13,986 - GOAT - DEBUG - altitude: 43.945
+2025-07-13 14:16:14,987 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:14,988 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:14,988 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:14,988 - GOAT - DEBUG - altitude: 42.296
+2025-07-13 14:16:15,988 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:15,988 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:15,989 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:15,989 - GOAT - DEBUG - altitude: 40.638
+2025-07-13 14:16:16,990 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:16,990 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:16,990 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:16,990 - GOAT - DEBUG - altitude: 38.968
+2025-07-13 14:16:17,991 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:17,991 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:17,992 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:17,992 - GOAT - DEBUG - altitude: 37.334
+2025-07-13 14:16:18,993 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:18,993 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:18,993 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:18,993 - GOAT - DEBUG - altitude: 35.742
+2025-07-13 14:16:19,994 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:19,995 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:19,995 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:19,995 - GOAT - DEBUG - altitude: 34.097
+2025-07-13 14:16:20,995 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:20,995 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:20,996 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:20,996 - GOAT - DEBUG - altitude: 32.443
+2025-07-13 14:16:21,996 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:21,996 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:21,997 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:16:21,997 - GOAT - DEBUG - altitude: 30.802
+2025-07-13 14:16:22,998 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:16:22,998 - GOAT - DEBUG - Diving in
+2025-07-13 14:16:22,998 - GOAT - DEBUG - Altitude is less than 30 meters
+2025-07-13 14:16:22,998 - GOAT - DEBUG - altitude: 29.164
+2025-07-13 14:16:23,001 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:23,001 - GOAT - DEBUG - self.alt: 29.164
+2025-07-13 14:16:23,102 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:23,102 - GOAT - DEBUG - self.alt: 29.164
+2025-07-13 14:16:23,203 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:23,203 - GOAT - DEBUG - self.alt: 29.164
+2025-07-13 14:16:23,303 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:23,303 - GOAT - DEBUG - self.alt: 28.737
+2025-07-13 14:16:23,404 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:23,404 - GOAT - DEBUG - self.alt: 28.737
+2025-07-13 14:16:23,505 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:23,505 - GOAT - DEBUG - self.alt: 28.342
+2025-07-13 14:16:23,605 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:23,605 - GOAT - DEBUG - self.alt: 28.342
+2025-07-13 14:16:23,706 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:23,706 - GOAT - DEBUG - self.alt: 28.342
+2025-07-13 14:16:23,806 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:23,807 - GOAT - DEBUG - self.alt: 27.913
+2025-07-13 14:16:23,907 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:23,907 - GOAT - DEBUG - self.alt: 27.913
+2025-07-13 14:16:23,999 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:16:24,008 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:24,008 - GOAT - DEBUG - self.alt: 27.578
+2025-07-13 14:16:24,108 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:24,108 - GOAT - DEBUG - self.alt: 27.578
+2025-07-13 14:16:24,209 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:24,209 - GOAT - DEBUG - self.alt: 27.578
+2025-07-13 14:16:24,309 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:24,309 - GOAT - DEBUG - self.alt: 27.435
+2025-07-13 14:16:24,410 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:24,410 - GOAT - DEBUG - self.alt: 27.435
+2025-07-13 14:16:24,510 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:24,510 - GOAT - DEBUG - self.alt: 27.639
+2025-07-13 14:16:24,611 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:24,611 - GOAT - DEBUG - self.alt: 27.639
+2025-07-13 14:16:24,711 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:24,711 - GOAT - DEBUG - self.alt: 27.639
+2025-07-13 14:16:24,812 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:24,812 - GOAT - DEBUG - self.alt: 28.272
+2025-07-13 14:16:24,912 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:24,912 - GOAT - DEBUG - self.alt: 28.272
+2025-07-13 14:16:25,000 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:16:25,013 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:25,013 - GOAT - DEBUG - self.alt: 29.148
+2025-07-13 14:16:25,113 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:25,113 - GOAT - DEBUG - self.alt: 29.148
+2025-07-13 14:16:25,214 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:25,214 - GOAT - DEBUG - self.alt: 30.237
+2025-07-13 14:16:25,314 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:25,314 - GOAT - DEBUG - self.alt: 30.237
+2025-07-13 14:16:25,415 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:25,415 - GOAT - DEBUG - self.alt: 30.237
+2025-07-13 14:16:25,515 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:25,515 - GOAT - DEBUG - self.alt: 31.304
+2025-07-13 14:16:25,616 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:25,616 - GOAT - DEBUG - self.alt: 31.304
+2025-07-13 14:16:25,716 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:25,716 - GOAT - DEBUG - self.alt: 32.17
+2025-07-13 14:16:25,817 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:25,817 - GOAT - DEBUG - self.alt: 32.17
+2025-07-13 14:16:25,917 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:25,917 - GOAT - DEBUG - self.alt: 32.17
+2025-07-13 14:16:26,001 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:16:26,018 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:26,018 - GOAT - DEBUG - self.alt: 32.938
+2025-07-13 14:16:26,118 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:26,118 - GOAT - DEBUG - self.alt: 32.938
+2025-07-13 14:16:26,219 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:26,219 - GOAT - DEBUG - self.alt: 32.938
+2025-07-13 14:16:26,319 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:26,319 - GOAT - DEBUG - self.alt: 33.518
+2025-07-13 14:16:26,420 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:26,420 - GOAT - DEBUG - self.alt: 33.518
+2025-07-13 14:16:26,520 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:26,521 - GOAT - DEBUG - self.alt: 34.074
+2025-07-13 14:16:26,621 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:26,621 - GOAT - DEBUG - self.alt: 34.074
+2025-07-13 14:16:26,722 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:26,722 - GOAT - DEBUG - self.alt: 34.074
+2025-07-13 14:16:26,822 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:26,822 - GOAT - DEBUG - self.alt: 34.597
+2025-07-13 14:16:26,923 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:26,923 - GOAT - DEBUG - self.alt: 34.597
+2025-07-13 14:16:27,002 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:16:27,024 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:27,024 - GOAT - DEBUG - self.alt: 35.238
+2025-07-13 14:16:27,124 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:27,124 - GOAT - DEBUG - self.alt: 35.238
+2025-07-13 14:16:27,225 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:27,225 - GOAT - DEBUG - self.alt: 35.238
+2025-07-13 14:16:27,326 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:27,326 - GOAT - DEBUG - self.alt: 35.925
+2025-07-13 14:16:27,426 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:27,426 - GOAT - DEBUG - self.alt: 35.925
+2025-07-13 14:16:27,527 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:27,527 - GOAT - DEBUG - self.alt: 36.678
+2025-07-13 14:16:27,627 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:27,627 - GOAT - DEBUG - self.alt: 36.678
+2025-07-13 14:16:27,728 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:27,728 - GOAT - DEBUG - self.alt: 36.678
+2025-07-13 14:16:27,829 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:27,829 - GOAT - DEBUG - self.alt: 37.53
+2025-07-13 14:16:27,929 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:27,929 - GOAT - DEBUG - self.alt: 37.53
+2025-07-13 14:16:28,003 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:16:28,030 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:28,030 - GOAT - DEBUG - self.alt: 38.317
+2025-07-13 14:16:28,130 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:28,130 - GOAT - DEBUG - self.alt: 38.317
+2025-07-13 14:16:28,231 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:28,231 - GOAT - DEBUG - self.alt: 38.317
+2025-07-13 14:16:28,331 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:28,331 - GOAT - DEBUG - self.alt: 39.14
+2025-07-13 14:16:28,432 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:28,432 - GOAT - DEBUG - self.alt: 39.14
+2025-07-13 14:16:28,532 - GOAT - DEBUG - Diving out
+2025-07-13 14:16:28,532 - GOAT - DEBUG - self.alt: 39.864
+2025-07-13 14:16:28,576 - GOAT - DEBUG - Connection closed.

@@ -1,0 +1,4 @@
+2025-07-13 13:47:54,676 - GOAT - DEBUG - Mission state is NEUTRAL.
+2025-07-13 13:47:54,677 - GOAT - DEBUG - target_lat: 41.102904, target_lon: 28.5456026
+2025-07-13 13:47:54,677 - GOAT - DEBUG - start_altitude: 90target_altitude: 30stable_altitude: 100
+2025-07-13 13:47:54,677 - GOAT - DEBUG - diving_distance: 202.1433096513794

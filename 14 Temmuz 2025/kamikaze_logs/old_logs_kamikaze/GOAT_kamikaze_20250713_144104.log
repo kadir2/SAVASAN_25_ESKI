@@ -1,0 +1,871 @@
+2025-07-13 14:38:12,881 - GOAT - DEBUG - Mission state is NEUTRAL.
+2025-07-13 14:38:12,881 - GOAT - DEBUG - target_lat: 41.102904, target_lon: 28.5456026
+2025-07-13 14:38:12,881 - GOAT - DEBUG - start_altitude: 90target_altitude: 30stable_altitude: 100
+2025-07-13 14:38:12,881 - GOAT - DEBUG - diving_distance: 149.78515341154662
+2025-07-13 14:38:13,484 - GOAT - DEBUG - Connected to the aircraft.
+2025-07-13 14:38:18,292 - GOAT - DEBUG - Received start command from Redis.
+2025-07-13 14:38:18,292 - GOAT - DEBUG - Loiter radius set to 20 for kamikaze mission.
+2025-07-13 14:38:18,393 - GOAT - DEBUG - going to approach destination
+2025-07-13 14:38:19,293 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:20,294 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:21,295 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:22,296 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:23,296 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:24,298 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:25,299 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:26,299 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:27,299 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:28,300 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:29,301 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:30,302 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:31,303 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:32,304 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:33,304 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:34,305 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:35,306 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:36,307 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:37,307 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:38,308 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:39,309 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:40,310 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:41,311 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:42,312 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:43,314 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:44,314 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:45,315 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:46,111 - GOAT - DEBUG - Reached approach destination.
+2025-07-13 14:38:46,111 - GOAT - DEBUG - going to target destination
+2025-07-13 14:38:46,316 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:47,316 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:48,317 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:49,318 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:50,319 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:51,320 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:52,321 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:53,322 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:54,323 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:55,324 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:56,325 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:57,326 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:58,326 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:38:59,327 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:39:00,328 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:39:01,328 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:39:02,329 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:39:03,330 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:39:04,331 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:39:05,332 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:39:06,333 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:39:07,334 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:39:08,335 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:39:09,336 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:39:10,337 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:39:10,923 - GOAT - DEBUG - Reached target destination.
+2025-07-13 14:39:10,923 - GOAT - DEBUG - Target reached, diving in.
+2025-07-13 14:39:10,923 - GOAT - DEBUG - state == MissionState.DIVING_IN
+2025-07-13 14:39:11,338 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:11,338 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:11,339 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:11,339 - GOAT - DEBUG - altitude: 89.88
+2025-07-13 14:39:12,340 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:12,340 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:12,341 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:12,341 - GOAT - DEBUG - altitude: 89.948
+2025-07-13 14:39:13,342 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:13,342 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:13,343 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:13,343 - GOAT - DEBUG - altitude: 89.628
+2025-07-13 14:39:14,344 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:14,344 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:14,344 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:14,344 - GOAT - DEBUG - altitude: 88.42
+2025-07-13 14:39:15,345 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:15,345 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:15,346 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:15,346 - GOAT - DEBUG - altitude: 87.155
+2025-07-13 14:39:16,347 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:16,347 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:16,348 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:16,348 - GOAT - DEBUG - altitude: 85.849
+2025-07-13 14:39:17,349 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:17,349 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:17,349 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:17,349 - GOAT - DEBUG - altitude: 84.566
+2025-07-13 14:39:18,350 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:18,350 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:18,351 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:18,351 - GOAT - DEBUG - altitude: 83.391
+2025-07-13 14:39:19,351 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:19,352 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:19,352 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:19,352 - GOAT - DEBUG - altitude: 82.05
+2025-07-13 14:39:20,353 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:20,353 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:20,354 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:20,354 - GOAT - DEBUG - altitude: 80.286
+2025-07-13 14:39:21,355 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:21,355 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:21,356 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:21,356 - GOAT - DEBUG - altitude: 78.39
+2025-07-13 14:39:22,357 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:22,357 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:22,358 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:22,358 - GOAT - DEBUG - altitude: 76.761
+2025-07-13 14:39:23,359 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:23,359 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:23,359 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:23,359 - GOAT - DEBUG - altitude: 75.303
+2025-07-13 14:39:24,361 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:24,361 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:24,361 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:24,361 - GOAT - DEBUG - altitude: 73.514
+2025-07-13 14:39:25,362 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:25,362 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:25,363 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:25,363 - GOAT - DEBUG - altitude: 71.739
+2025-07-13 14:39:26,364 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:26,364 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:26,365 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:26,365 - GOAT - DEBUG - altitude: 70.013
+2025-07-13 14:39:27,366 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:27,366 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:27,366 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:27,366 - GOAT - DEBUG - altitude: 68.462
+2025-07-13 14:39:28,367 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:28,367 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:28,368 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:28,368 - GOAT - DEBUG - altitude: 66.916
+2025-07-13 14:39:29,368 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:29,369 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:29,369 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:29,369 - GOAT - DEBUG - altitude: 65.233
+2025-07-13 14:39:30,369 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:30,370 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:30,370 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:30,370 - GOAT - DEBUG - altitude: 63.516
+2025-07-13 14:39:31,371 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:31,371 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:31,372 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:31,372 - GOAT - DEBUG - altitude: 61.89
+2025-07-13 14:39:32,373 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:32,373 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:32,374 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:32,374 - GOAT - DEBUG - altitude: 60.303
+2025-07-13 14:39:33,374 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:33,374 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:33,375 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:33,375 - GOAT - DEBUG - altitude: 58.698
+2025-07-13 14:39:34,375 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:34,375 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:34,376 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:34,376 - GOAT - DEBUG - altitude: 57.035
+2025-07-13 14:39:35,377 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:35,377 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:35,377 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:35,378 - GOAT - DEBUG - altitude: 55.376
+2025-07-13 14:39:36,378 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:36,378 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:36,379 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:36,379 - GOAT - DEBUG - altitude: 53.739
+2025-07-13 14:39:37,379 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:37,379 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:37,379 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:37,380 - GOAT - DEBUG - altitude: 52.118
+2025-07-13 14:39:38,381 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:38,381 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:38,381 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:38,381 - GOAT - DEBUG - altitude: 50.473
+2025-07-13 14:39:39,382 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:39,382 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:39,383 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:39,383 - GOAT - DEBUG - altitude: 48.8
+2025-07-13 14:39:40,383 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:40,383 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:40,384 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:40,384 - GOAT - DEBUG - altitude: 46.98
+2025-07-13 14:39:41,385 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:41,385 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:41,385 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:41,386 - GOAT - DEBUG - altitude: 45.568
+2025-07-13 14:39:42,386 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:42,386 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:42,387 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:42,387 - GOAT - DEBUG - altitude: 43.929
+2025-07-13 14:39:43,388 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:43,388 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:43,388 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:43,388 - GOAT - DEBUG - altitude: 42.372
+2025-07-13 14:39:44,389 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:44,390 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:44,390 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:44,390 - GOAT - DEBUG - altitude: 40.73
+2025-07-13 14:39:45,391 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:45,391 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:45,392 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:45,392 - GOAT - DEBUG - altitude: 39.082
+2025-07-13 14:39:46,393 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:46,393 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:46,393 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:46,393 - GOAT - DEBUG - altitude: 37.445
+2025-07-13 14:39:47,394 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:47,394 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:47,394 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:47,394 - GOAT - DEBUG - altitude: 35.811
+2025-07-13 14:39:48,395 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:48,395 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:48,396 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:48,396 - GOAT - DEBUG - altitude: 34.186
+2025-07-13 14:39:49,396 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:49,396 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:49,397 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:49,397 - GOAT - DEBUG - altitude: 32.535
+2025-07-13 14:39:50,398 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:50,398 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:50,398 - GOAT - ERROR - Error while saving frame: OpenCV(4.10.0) /io/opencv/modules/imgcodecs/src/loadsave.cpp:798: error: (-215:Assertion failed) !_img.empty() in function 'imwrite'
+
+2025-07-13 14:39:50,399 - GOAT - DEBUG - altitude: 30.895
+2025-07-13 14:39:51,399 - GOAT - DEBUG - self.state: MissionState.DIVING_IN
+2025-07-13 14:39:51,399 - GOAT - DEBUG - Diving in
+2025-07-13 14:39:51,399 - GOAT - DEBUG - Altitude is less than 30 meters
+2025-07-13 14:39:51,399 - GOAT - DEBUG - altitude: 29.254
+2025-07-13 14:39:51,404 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:51,404 - GOAT - DEBUG - self.alt: 29.254
+2025-07-13 14:39:51,505 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:51,505 - GOAT - DEBUG - self.alt: 29.254
+2025-07-13 14:39:51,605 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:51,605 - GOAT - DEBUG - self.alt: 28.73
+2025-07-13 14:39:51,706 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:51,706 - GOAT - DEBUG - self.alt: 28.73
+2025-07-13 14:39:51,806 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:51,806 - GOAT - DEBUG - self.alt: 28.73
+2025-07-13 14:39:51,907 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:51,907 - GOAT - DEBUG - self.alt: 28.73
+2025-07-13 14:39:52,008 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:52,008 - GOAT - DEBUG - self.alt: 28.161
+2025-07-13 14:39:52,108 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:52,108 - GOAT - DEBUG - self.alt: 28.161
+2025-07-13 14:39:52,209 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:52,209 - GOAT - DEBUG - self.alt: 28.161
+2025-07-13 14:39:52,309 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:52,309 - GOAT - DEBUG - self.alt: 27.617
+2025-07-13 14:39:52,400 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:39:52,410 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:52,410 - GOAT - DEBUG - self.alt: 27.617
+2025-07-13 14:39:52,510 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:52,510 - GOAT - DEBUG - self.alt: 27.617
+2025-07-13 14:39:52,611 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:52,611 - GOAT - DEBUG - self.alt: 27.35
+2025-07-13 14:39:52,711 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:52,711 - GOAT - DEBUG - self.alt: 27.35
+2025-07-13 14:39:52,812 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:52,812 - GOAT - DEBUG - self.alt: 27.35
+2025-07-13 14:39:52,912 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:52,912 - GOAT - DEBUG - self.alt: 27.35
+2025-07-13 14:39:53,013 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:53,013 - GOAT - DEBUG - self.alt: 27.65
+2025-07-13 14:39:53,113 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:53,113 - GOAT - DEBUG - self.alt: 27.65
+2025-07-13 14:39:53,214 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:53,214 - GOAT - DEBUG - self.alt: 27.65
+2025-07-13 14:39:53,315 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:53,315 - GOAT - DEBUG - self.alt: 27.65
+2025-07-13 14:39:53,401 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:39:53,415 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:53,415 - GOAT - DEBUG - self.alt: 28.875
+2025-07-13 14:39:53,516 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:53,516 - GOAT - DEBUG - self.alt: 28.875
+2025-07-13 14:39:53,616 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:53,616 - GOAT - DEBUG - self.alt: 28.875
+2025-07-13 14:39:53,717 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:53,717 - GOAT - DEBUG - self.alt: 30.374
+2025-07-13 14:39:53,817 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:53,817 - GOAT - DEBUG - self.alt: 30.374
+2025-07-13 14:39:53,918 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:53,918 - GOAT - DEBUG - self.alt: 30.374
+2025-07-13 14:39:54,018 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:54,019 - GOAT - DEBUG - self.alt: 30.374
+2025-07-13 14:39:54,119 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:54,119 - GOAT - DEBUG - self.alt: 31.694
+2025-07-13 14:39:54,220 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:54,220 - GOAT - DEBUG - self.alt: 31.694
+2025-07-13 14:39:54,320 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:54,320 - GOAT - DEBUG - self.alt: 31.694
+2025-07-13 14:39:54,402 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:39:54,420 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:54,421 - GOAT - DEBUG - self.alt: 32.684
+2025-07-13 14:39:54,521 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:54,521 - GOAT - DEBUG - self.alt: 32.684
+2025-07-13 14:39:54,621 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:54,622 - GOAT - DEBUG - self.alt: 32.684
+2025-07-13 14:39:54,722 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:54,722 - GOAT - DEBUG - self.alt: 33.483
+2025-07-13 14:39:54,823 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:54,823 - GOAT - DEBUG - self.alt: 33.483
+2025-07-13 14:39:54,923 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:54,923 - GOAT - DEBUG - self.alt: 33.483
+2025-07-13 14:39:55,024 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:55,024 - GOAT - DEBUG - self.alt: 33.483
+2025-07-13 14:39:55,124 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:55,125 - GOAT - DEBUG - self.alt: 34.201
+2025-07-13 14:39:55,225 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:55,225 - GOAT - DEBUG - self.alt: 34.201
+2025-07-13 14:39:55,326 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:55,326 - GOAT - DEBUG - self.alt: 34.201
+2025-07-13 14:39:55,402 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:39:55,426 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:55,426 - GOAT - DEBUG - self.alt: 34.967
+2025-07-13 14:39:55,527 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:55,527 - GOAT - DEBUG - self.alt: 34.967
+2025-07-13 14:39:55,627 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:55,627 - GOAT - DEBUG - self.alt: 34.967
+2025-07-13 14:39:55,728 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:55,728 - GOAT - DEBUG - self.alt: 34.967
+2025-07-13 14:39:55,828 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:55,829 - GOAT - DEBUG - self.alt: 34.967
+2025-07-13 14:39:55,929 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:55,929 - GOAT - DEBUG - self.alt: 36.398
+2025-07-13 14:39:56,030 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:56,030 - GOAT - DEBUG - self.alt: 36.398
+2025-07-13 14:39:56,130 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:56,130 - GOAT - DEBUG - self.alt: 37.189
+2025-07-13 14:39:56,231 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:56,231 - GOAT - DEBUG - self.alt: 37.189
+2025-07-13 14:39:56,331 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:56,331 - GOAT - DEBUG - self.alt: 37.189
+2025-07-13 14:39:56,404 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:39:56,432 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:56,432 - GOAT - DEBUG - self.alt: 38.052
+2025-07-13 14:39:56,533 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:56,533 - GOAT - DEBUG - self.alt: 38.052
+2025-07-13 14:39:56,633 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:56,633 - GOAT - DEBUG - self.alt: 38.822
+2025-07-13 14:39:56,734 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:56,734 - GOAT - DEBUG - self.alt: 38.822
+2025-07-13 14:39:56,834 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:56,835 - GOAT - DEBUG - self.alt: 38.822
+2025-07-13 14:39:56,935 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:56,935 - GOAT - DEBUG - self.alt: 38.822
+2025-07-13 14:39:57,036 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:57,036 - GOAT - DEBUG - self.alt: 38.822
+2025-07-13 14:39:57,136 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:57,137 - GOAT - DEBUG - self.alt: 38.822
+2025-07-13 14:39:57,237 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:57,237 - GOAT - DEBUG - self.alt: 40.489
+2025-07-13 14:39:57,337 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:57,337 - GOAT - DEBUG - self.alt: 40.489
+2025-07-13 14:39:57,405 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:39:57,438 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:57,438 - GOAT - DEBUG - self.alt: 40.489
+2025-07-13 14:39:57,538 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:57,539 - GOAT - DEBUG - self.alt: 41.444
+2025-07-13 14:39:57,639 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:57,639 - GOAT - DEBUG - self.alt: 41.444
+2025-07-13 14:39:57,740 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:57,740 - GOAT - DEBUG - self.alt: 41.444
+2025-07-13 14:39:57,840 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:57,840 - GOAT - DEBUG - self.alt: 42.349
+2025-07-13 14:39:57,941 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:57,941 - GOAT - DEBUG - self.alt: 42.349
+2025-07-13 14:39:58,041 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:58,041 - GOAT - DEBUG - self.alt: 42.349
+2025-07-13 14:39:58,142 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:58,142 - GOAT - DEBUG - self.alt: 42.349
+2025-07-13 14:39:58,242 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:58,242 - GOAT - DEBUG - self.alt: 43.347
+2025-07-13 14:39:58,343 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:58,343 - GOAT - DEBUG - self.alt: 43.347
+2025-07-13 14:39:58,406 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:39:58,443 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:58,443 - GOAT - DEBUG - self.alt: 43.347
+2025-07-13 14:39:58,544 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:58,544 - GOAT - DEBUG - self.alt: 44.373
+2025-07-13 14:39:58,644 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:58,644 - GOAT - DEBUG - self.alt: 44.373
+2025-07-13 14:39:58,745 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:58,745 - GOAT - DEBUG - self.alt: 44.373
+2025-07-13 14:39:58,845 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:58,846 - GOAT - DEBUG - self.alt: 45.349
+2025-07-13 14:39:58,946 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:58,946 - GOAT - DEBUG - self.alt: 45.349
+2025-07-13 14:39:59,046 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:59,046 - GOAT - DEBUG - self.alt: 45.349
+2025-07-13 14:39:59,147 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:59,147 - GOAT - DEBUG - self.alt: 45.349
+2025-07-13 14:39:59,247 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:59,247 - GOAT - DEBUG - self.alt: 46.382
+2025-07-13 14:39:59,348 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:59,348 - GOAT - DEBUG - self.alt: 46.382
+2025-07-13 14:39:59,406 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:39:59,448 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:59,448 - GOAT - DEBUG - self.alt: 46.382
+2025-07-13 14:39:59,549 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:59,549 - GOAT - DEBUG - self.alt: 47.397
+2025-07-13 14:39:59,650 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:59,650 - GOAT - DEBUG - self.alt: 47.397
+2025-07-13 14:39:59,750 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:59,750 - GOAT - DEBUG - self.alt: 47.397
+2025-07-13 14:39:59,851 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:59,851 - GOAT - DEBUG - self.alt: 48.342
+2025-07-13 14:39:59,951 - GOAT - DEBUG - Diving out
+2025-07-13 14:39:59,951 - GOAT - DEBUG - self.alt: 48.342
+2025-07-13 14:40:00,052 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:00,052 - GOAT - DEBUG - self.alt: 48.342
+2025-07-13 14:40:00,152 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:00,152 - GOAT - DEBUG - self.alt: 48.342
+2025-07-13 14:40:00,253 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:00,253 - GOAT - DEBUG - self.alt: 49.349
+2025-07-13 14:40:00,353 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:00,353 - GOAT - DEBUG - self.alt: 49.349
+2025-07-13 14:40:00,407 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:00,453 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:00,454 - GOAT - DEBUG - self.alt: 49.349
+2025-07-13 14:40:00,554 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:00,554 - GOAT - DEBUG - self.alt: 50.351
+2025-07-13 14:40:00,654 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:00,655 - GOAT - DEBUG - self.alt: 50.351
+2025-07-13 14:40:00,755 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:00,755 - GOAT - DEBUG - self.alt: 50.351
+2025-07-13 14:40:00,855 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:00,856 - GOAT - DEBUG - self.alt: 51.301
+2025-07-13 14:40:00,956 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:00,956 - GOAT - DEBUG - self.alt: 51.301
+2025-07-13 14:40:01,057 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:01,057 - GOAT - DEBUG - self.alt: 51.301
+2025-07-13 14:40:01,157 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:01,157 - GOAT - DEBUG - self.alt: 51.301
+2025-07-13 14:40:01,258 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:01,258 - GOAT - DEBUG - self.alt: 52.321
+2025-07-13 14:40:01,358 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:01,358 - GOAT - DEBUG - self.alt: 52.321
+2025-07-13 14:40:01,408 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:01,459 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:01,459 - GOAT - DEBUG - self.alt: 52.321
+2025-07-13 14:40:01,559 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:01,559 - GOAT - DEBUG - self.alt: 53.345
+2025-07-13 14:40:01,660 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:01,660 - GOAT - DEBUG - self.alt: 53.345
+2025-07-13 14:40:01,760 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:01,760 - GOAT - DEBUG - self.alt: 53.345
+2025-07-13 14:40:01,861 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:01,862 - GOAT - DEBUG - self.alt: 54.3
+2025-07-13 14:40:01,962 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:01,962 - GOAT - DEBUG - self.alt: 54.3
+2025-07-13 14:40:02,063 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:02,063 - GOAT - DEBUG - self.alt: 54.3
+2025-07-13 14:40:02,163 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:02,163 - GOAT - DEBUG - self.alt: 54.3
+2025-07-13 14:40:02,264 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:02,264 - GOAT - DEBUG - self.alt: 55.302
+2025-07-13 14:40:02,365 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:02,365 - GOAT - DEBUG - self.alt: 55.302
+2025-07-13 14:40:02,409 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:02,465 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:02,465 - GOAT - DEBUG - self.alt: 55.302
+2025-07-13 14:40:02,566 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:02,566 - GOAT - DEBUG - self.alt: 56.305
+2025-07-13 14:40:02,666 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:02,666 - GOAT - DEBUG - self.alt: 56.305
+2025-07-13 14:40:02,767 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:02,767 - GOAT - DEBUG - self.alt: 56.305
+2025-07-13 14:40:02,868 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:02,868 - GOAT - DEBUG - self.alt: 56.305
+2025-07-13 14:40:02,968 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:02,969 - GOAT - DEBUG - self.alt: 57.246
+2025-07-13 14:40:03,069 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:03,069 - GOAT - DEBUG - self.alt: 57.246
+2025-07-13 14:40:03,170 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:03,170 - GOAT - DEBUG - self.alt: 57.246
+2025-07-13 14:40:03,270 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:03,270 - GOAT - DEBUG - self.alt: 58.244
+2025-07-13 14:40:03,371 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:03,371 - GOAT - DEBUG - self.alt: 58.244
+2025-07-13 14:40:03,410 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:03,471 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:03,471 - GOAT - DEBUG - self.alt: 58.244
+2025-07-13 14:40:03,572 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:03,572 - GOAT - DEBUG - self.alt: 59.193
+2025-07-13 14:40:03,673 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:03,673 - GOAT - DEBUG - self.alt: 59.193
+2025-07-13 14:40:03,773 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:03,773 - GOAT - DEBUG - self.alt: 59.193
+2025-07-13 14:40:03,874 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:03,875 - GOAT - DEBUG - self.alt: 59.193
+2025-07-13 14:40:03,975 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:03,975 - GOAT - DEBUG - self.alt: 60.206
+2025-07-13 14:40:04,076 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:04,076 - GOAT - DEBUG - self.alt: 60.206
+2025-07-13 14:40:04,177 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:04,177 - GOAT - DEBUG - self.alt: 60.206
+2025-07-13 14:40:04,277 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:04,277 - GOAT - DEBUG - self.alt: 61.217
+2025-07-13 14:40:04,378 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:04,378 - GOAT - DEBUG - self.alt: 61.217
+2025-07-13 14:40:04,410 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:04,479 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:04,479 - GOAT - DEBUG - self.alt: 61.217
+2025-07-13 14:40:04,579 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:04,579 - GOAT - DEBUG - self.alt: 61.217
+2025-07-13 14:40:04,680 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:04,680 - GOAT - DEBUG - self.alt: 62.167
+2025-07-13 14:40:04,780 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:04,780 - GOAT - DEBUG - self.alt: 62.167
+2025-07-13 14:40:04,881 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:04,881 - GOAT - DEBUG - self.alt: 62.167
+2025-07-13 14:40:04,982 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:04,982 - GOAT - DEBUG - self.alt: 63.177
+2025-07-13 14:40:05,082 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:05,082 - GOAT - DEBUG - self.alt: 63.177
+2025-07-13 14:40:05,183 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:05,183 - GOAT - DEBUG - self.alt: 63.177
+2025-07-13 14:40:05,284 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:05,284 - GOAT - DEBUG - self.alt: 64.183
+2025-07-13 14:40:05,384 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:05,384 - GOAT - DEBUG - self.alt: 64.183
+2025-07-13 14:40:05,411 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:05,485 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:05,485 - GOAT - DEBUG - self.alt: 64.183
+2025-07-13 14:40:05,585 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:05,585 - GOAT - DEBUG - self.alt: 65.132
+2025-07-13 14:40:05,686 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:05,686 - GOAT - DEBUG - self.alt: 65.132
+2025-07-13 14:40:05,786 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:05,786 - GOAT - DEBUG - self.alt: 65.132
+2025-07-13 14:40:05,887 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:05,887 - GOAT - DEBUG - self.alt: 65.132
+2025-07-13 14:40:05,988 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:05,988 - GOAT - DEBUG - self.alt: 66.139
+2025-07-13 14:40:06,088 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:06,088 - GOAT - DEBUG - self.alt: 66.139
+2025-07-13 14:40:06,189 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:06,189 - GOAT - DEBUG - self.alt: 66.139
+2025-07-13 14:40:06,289 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:06,289 - GOAT - DEBUG - self.alt: 67.149
+2025-07-13 14:40:06,390 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:06,390 - GOAT - DEBUG - self.alt: 67.149
+2025-07-13 14:40:06,412 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:06,490 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:06,491 - GOAT - DEBUG - self.alt: 67.149
+2025-07-13 14:40:06,591 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:06,591 - GOAT - DEBUG - self.alt: 67.149
+2025-07-13 14:40:06,692 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:06,692 - GOAT - DEBUG - self.alt: 68.092
+2025-07-13 14:40:06,792 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:06,792 - GOAT - DEBUG - self.alt: 68.092
+2025-07-13 14:40:06,893 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:06,893 - GOAT - DEBUG - self.alt: 68.092
+2025-07-13 14:40:06,994 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:06,994 - GOAT - DEBUG - self.alt: 69.095
+2025-07-13 14:40:07,094 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:07,094 - GOAT - DEBUG - self.alt: 69.095
+2025-07-13 14:40:07,195 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:07,195 - GOAT - DEBUG - self.alt: 69.095
+2025-07-13 14:40:07,295 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:07,295 - GOAT - DEBUG - self.alt: 70.098
+2025-07-13 14:40:07,396 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:07,396 - GOAT - DEBUG - self.alt: 70.098
+2025-07-13 14:40:07,413 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:07,496 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:07,496 - GOAT - DEBUG - self.alt: 70.098
+2025-07-13 14:40:07,597 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:07,597 - GOAT - DEBUG - self.alt: 70.098
+2025-07-13 14:40:07,697 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:07,698 - GOAT - DEBUG - self.alt: 71.043
+2025-07-13 14:40:07,798 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:07,798 - GOAT - DEBUG - self.alt: 71.043
+2025-07-13 14:40:07,898 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:07,899 - GOAT - DEBUG - self.alt: 71.043
+2025-07-13 14:40:07,999 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:07,999 - GOAT - DEBUG - self.alt: 72.048
+2025-07-13 14:40:08,099 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:08,100 - GOAT - DEBUG - self.alt: 72.048
+2025-07-13 14:40:08,200 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:08,200 - GOAT - DEBUG - self.alt: 72.048
+2025-07-13 14:40:08,301 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:08,301 - GOAT - DEBUG - self.alt: 72.869
+2025-07-13 14:40:08,401 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:08,401 - GOAT - DEBUG - self.alt: 72.869
+2025-07-13 14:40:08,414 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:08,502 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:08,502 - GOAT - DEBUG - self.alt: 73.63
+2025-07-13 14:40:08,602 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:08,602 - GOAT - DEBUG - self.alt: 73.63
+2025-07-13 14:40:08,703 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:08,703 - GOAT - DEBUG - self.alt: 73.63
+2025-07-13 14:40:08,803 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:08,804 - GOAT - DEBUG - self.alt: 74.338
+2025-07-13 14:40:08,904 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:08,904 - GOAT - DEBUG - self.alt: 74.338
+2025-07-13 14:40:09,005 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:09,005 - GOAT - DEBUG - self.alt: 74.338
+2025-07-13 14:40:09,105 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:09,105 - GOAT - DEBUG - self.alt: 75.105
+2025-07-13 14:40:09,206 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:09,206 - GOAT - DEBUG - self.alt: 75.105
+2025-07-13 14:40:09,306 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:09,306 - GOAT - DEBUG - self.alt: 75.806
+2025-07-13 14:40:09,407 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:09,407 - GOAT - DEBUG - self.alt: 75.806
+2025-07-13 14:40:09,415 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:09,507 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:09,507 - GOAT - DEBUG - self.alt: 75.806
+2025-07-13 14:40:09,608 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:09,608 - GOAT - DEBUG - self.alt: 76.568
+2025-07-13 14:40:09,708 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:09,708 - GOAT - DEBUG - self.alt: 76.568
+2025-07-13 14:40:09,809 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:09,809 - GOAT - DEBUG - self.alt: 77.271
+2025-07-13 14:40:09,910 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:09,910 - GOAT - DEBUG - self.alt: 77.271
+2025-07-13 14:40:10,010 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:10,011 - GOAT - DEBUG - self.alt: 77.271
+2025-07-13 14:40:10,111 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:10,111 - GOAT - DEBUG - self.alt: 78.032
+2025-07-13 14:40:10,212 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:10,212 - GOAT - DEBUG - self.alt: 78.032
+2025-07-13 14:40:10,313 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:10,313 - GOAT - DEBUG - self.alt: 78.74
+2025-07-13 14:40:10,413 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:10,414 - GOAT - DEBUG - self.alt: 78.74
+2025-07-13 14:40:10,415 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:10,514 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:10,515 - GOAT - DEBUG - self.alt: 78.74
+2025-07-13 14:40:10,615 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:10,615 - GOAT - DEBUG - self.alt: 79.505
+2025-07-13 14:40:10,716 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:10,716 - GOAT - DEBUG - self.alt: 79.505
+2025-07-13 14:40:10,816 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:10,816 - GOAT - DEBUG - self.alt: 80.208
+2025-07-13 14:40:10,917 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:10,917 - GOAT - DEBUG - self.alt: 80.208
+2025-07-13 14:40:11,017 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:11,017 - GOAT - DEBUG - self.alt: 80.208
+2025-07-13 14:40:11,118 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:11,118 - GOAT - DEBUG - self.alt: 80.208
+2025-07-13 14:40:11,219 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:11,219 - GOAT - DEBUG - self.alt: 81.383
+2025-07-13 14:40:11,319 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:11,319 - GOAT - DEBUG - self.alt: 81.383
+2025-07-13 14:40:11,416 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:11,420 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:11,420 - GOAT - DEBUG - self.alt: 81.383
+2025-07-13 14:40:11,520 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:11,520 - GOAT - DEBUG - self.alt: 81.383
+2025-07-13 14:40:11,621 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:11,621 - GOAT - DEBUG - self.alt: 82.378
+2025-07-13 14:40:11,721 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:11,721 - GOAT - DEBUG - self.alt: 82.378
+2025-07-13 14:40:11,822 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:11,822 - GOAT - DEBUG - self.alt: 82.378
+2025-07-13 14:40:11,923 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:11,923 - GOAT - DEBUG - self.alt: 83.321
+2025-07-13 14:40:12,024 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:12,024 - GOAT - DEBUG - self.alt: 83.321
+2025-07-13 14:40:12,124 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:12,124 - GOAT - DEBUG - self.alt: 83.321
+2025-07-13 14:40:12,225 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:12,225 - GOAT - DEBUG - self.alt: 84.319
+2025-07-13 14:40:12,325 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:12,325 - GOAT - DEBUG - self.alt: 84.319
+2025-07-13 14:40:12,417 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:12,426 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:12,426 - GOAT - DEBUG - self.alt: 84.319
+2025-07-13 14:40:12,526 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:12,526 - GOAT - DEBUG - self.alt: 85.318
+2025-07-13 14:40:12,627 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:12,627 - GOAT - DEBUG - self.alt: 85.318
+2025-07-13 14:40:12,727 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:12,728 - GOAT - DEBUG - self.alt: 85.318
+2025-07-13 14:40:12,828 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:12,828 - GOAT - DEBUG - self.alt: 85.318
+2025-07-13 14:40:12,928 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:12,929 - GOAT - DEBUG - self.alt: 86.26
+2025-07-13 14:40:13,029 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:13,030 - GOAT - DEBUG - self.alt: 86.26
+2025-07-13 14:40:13,130 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:13,130 - GOAT - DEBUG - self.alt: 86.26
+2025-07-13 14:40:13,230 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:13,231 - GOAT - DEBUG - self.alt: 87.259
+2025-07-13 14:40:13,331 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:13,331 - GOAT - DEBUG - self.alt: 87.259
+2025-07-13 14:40:13,418 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:13,432 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:13,432 - GOAT - DEBUG - self.alt: 87.259
+2025-07-13 14:40:13,532 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:13,532 - GOAT - DEBUG - self.alt: 88.271
+2025-07-13 14:40:13,633 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:13,633 - GOAT - DEBUG - self.alt: 88.271
+2025-07-13 14:40:13,733 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:13,734 - GOAT - DEBUG - self.alt: 88.271
+2025-07-13 14:40:13,834 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:13,834 - GOAT - DEBUG - self.alt: 88.271
+2025-07-13 14:40:13,934 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:13,934 - GOAT - DEBUG - self.alt: 89.225
+2025-07-13 14:40:14,035 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:14,035 - GOAT - DEBUG - self.alt: 89.225
+2025-07-13 14:40:14,136 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:14,136 - GOAT - DEBUG - self.alt: 89.225
+2025-07-13 14:40:14,236 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:14,236 - GOAT - DEBUG - self.alt: 90.233
+2025-07-13 14:40:14,337 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:14,337 - GOAT - DEBUG - self.alt: 90.233
+2025-07-13 14:40:14,419 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:14,438 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:14,438 - GOAT - DEBUG - self.alt: 90.233
+2025-07-13 14:40:14,538 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:14,538 - GOAT - DEBUG - self.alt: 90.233
+2025-07-13 14:40:14,638 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:14,639 - GOAT - DEBUG - self.alt: 91.236
+2025-07-13 14:40:14,739 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:14,739 - GOAT - DEBUG - self.alt: 91.236
+2025-07-13 14:40:14,840 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:14,840 - GOAT - DEBUG - self.alt: 91.236
+2025-07-13 14:40:14,941 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:14,941 - GOAT - DEBUG - self.alt: 92.175
+2025-07-13 14:40:15,041 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:15,041 - GOAT - DEBUG - self.alt: 92.175
+2025-07-13 14:40:15,142 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:15,142 - GOAT - DEBUG - self.alt: 92.175
+2025-07-13 14:40:15,242 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:15,242 - GOAT - DEBUG - self.alt: 93.177
+2025-07-13 14:40:15,343 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:15,343 - GOAT - DEBUG - self.alt: 93.177
+2025-07-13 14:40:15,419 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:15,444 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:15,444 - GOAT - DEBUG - self.alt: 93.177
+2025-07-13 14:40:15,544 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:15,544 - GOAT - DEBUG - self.alt: 93.177
+2025-07-13 14:40:15,645 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:15,645 - GOAT - DEBUG - self.alt: 94.179
+2025-07-13 14:40:15,745 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:15,745 - GOAT - DEBUG - self.alt: 94.179
+2025-07-13 14:40:15,846 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:15,846 - GOAT - DEBUG - self.alt: 94.179
+2025-07-13 14:40:15,947 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:15,947 - GOAT - DEBUG - self.alt: 95.116
+2025-07-13 14:40:16,047 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:16,047 - GOAT - DEBUG - self.alt: 95.116
+2025-07-13 14:40:16,148 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:16,149 - GOAT - DEBUG - self.alt: 95.116
+2025-07-13 14:40:16,249 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:16,249 - GOAT - DEBUG - self.alt: 96.114
+2025-07-13 14:40:16,350 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:16,350 - GOAT - DEBUG - self.alt: 96.114
+2025-07-13 14:40:16,420 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:16,450 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:16,450 - GOAT - DEBUG - self.alt: 96.114
+2025-07-13 14:40:16,551 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:16,551 - GOAT - DEBUG - self.alt: 97.054
+2025-07-13 14:40:16,652 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:16,652 - GOAT - DEBUG - self.alt: 97.054
+2025-07-13 14:40:16,752 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:16,752 - GOAT - DEBUG - self.alt: 97.054
+2025-07-13 14:40:16,853 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:16,853 - GOAT - DEBUG - self.alt: 97.054
+2025-07-13 14:40:16,953 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:16,953 - GOAT - DEBUG - self.alt: 98.054
+2025-07-13 14:40:17,054 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:17,054 - GOAT - DEBUG - self.alt: 98.054
+2025-07-13 14:40:17,155 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:17,155 - GOAT - DEBUG - self.alt: 98.054
+2025-07-13 14:40:17,255 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:17,255 - GOAT - DEBUG - self.alt: 99.049
+2025-07-13 14:40:17,356 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:17,356 - GOAT - DEBUG - self.alt: 99.049
+2025-07-13 14:40:17,421 - GOAT - DEBUG - self.state: MissionState.DIVING_OUT
+2025-07-13 14:40:17,457 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:17,457 - GOAT - DEBUG - self.alt: 99.049
+2025-07-13 14:40:17,557 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:17,557 - GOAT - DEBUG - self.alt: 99.983
+2025-07-13 14:40:17,658 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:17,658 - GOAT - DEBUG - self.alt: 99.983
+2025-07-13 14:40:17,758 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:17,759 - GOAT - DEBUG - self.alt: 99.983
+2025-07-13 14:40:17,859 - GOAT - DEBUG - Diving out
+2025-07-13 14:40:17,859 - GOAT - DEBUG - self.alt: 99.983
+2025-07-13 14:40:17,959 - GOAT - DEBUG - Dive out complete.
+2025-07-13 14:40:18,007 - GOAT - DEBUG - going to approach destination
+2025-07-13 14:40:18,422 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:19,424 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:20,424 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:21,425 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:22,425 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:23,426 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:24,426 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:25,427 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:26,428 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:27,429 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:28,430 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:29,431 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:30,432 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:31,433 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:32,434 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:33,435 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:34,436 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:35,437 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:36,438 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:37,439 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:38,439 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:39,441 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:40,441 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:41,442 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:42,443 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:43,443 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:44,444 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:45,444 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:46,445 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:47,446 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:48,447 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:49,448 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:50,449 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:51,450 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:52,451 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:53,452 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:54,453 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:55,454 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:56,455 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:57,456 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:58,457 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:40:59,458 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:41:00,459 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:41:01,460 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:41:02,461 - GOAT - DEBUG - self.state: MissionState.GOING_TO_TARGET
+2025-07-13 14:41:03,394 - GOAT - DEBUG - Connection closed.
